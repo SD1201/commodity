@@ -1,0 +1,46 @@
+{
+  "DOCUMENT": {
+    "device_type": [
+      {
+        "id": "1",
+        "name": "STB"
+      },
+      {
+        "id": "2",
+        "name": "TV"
+      },
+      {
+        "id": "3",
+        "name": "BOX"
+      },
+      {
+        "id": "4",
+        "name": "DVD"
+      },
+      {
+        "id": "5",
+        "name": "AC"
+      },
+      {
+        "id": "6",
+        "name": "Pro"
+      },
+      {
+        "id": "7",
+        "name": "PA"
+      },
+      {
+        "id": "8",
+        "name": "FAN"
+      },
+      {
+        "id": "9",
+        "name": "SLR"
+      },
+      {
+        "id": "10",
+        "name": "Light"
+      }
+    ]
+  }
+}

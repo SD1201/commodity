@@ -1,0 +1,4414 @@
+{
+"IrBrand":[{
+	"en_name": "352",
+	"id": 800,
+	"name": "352"
+}, {
+	"en_name": "3M",
+	"id": 1867,
+	"name": "3M"
+}, {
+	"en_name": "A Mark",
+	"id": 1188,
+	"name": "A Mark"
+}, {
+	"en_name": "AAF",
+	"id": 224,
+	"name": "AAF"
+}, {
+	"en_name": "ABC",
+	"id": 3723,
+	"name": "ABC"
+}, {
+	"en_name": "AC Ryan",
+	"id": 4883,
+	"name": "AC Ryan"
+}, {
+	"en_name": "Acoustic Research",
+	"id": 4701,
+	"name": "Acoustic Research"
+}, {
+	"en_name": "Acoustic Solutions",
+	"id": 3380,
+	"name": "Acoustic Solutions"
+}, {
+	"en_name": "ADA",
+	"id": 2307,
+	"name": "ADA"
+}, {
+	"en_name": "ADB",
+	"id": 3766,
+	"name": "ADB"
+}, {
+	"en_name": "Addsion",
+	"id": 1204,
+	"name": "Addsion"
+}, {
+	"en_name": "Admiral",
+	"id": 2949,
+	"name": "Admiral"
+}, {
+	"en_name": "AEG",
+	"id": 3096,
+	"name": "AEG"
+}, {
+	"en_name": "Alpine",
+	"id": 4866,
+	"name": "阿尔派"
+}, {
+	"en_name": "Aesthetix",
+	"id": 4860,
+	"name": "Aesthetix"
+}, {
+	"en_name": "Agled",
+	"id": 1615,
+	"name": "Agled"
+}, {
+	"en_name": "ADC",
+	"id": 2997,
+	"name": "艾德龙"
+}, {
+	"en_name": "Aidelong",
+	"id": 1672,
+	"name": "爱德龙"
+}, {
+	"en_name": "Addison",
+	"id": 19,
+	"name": "爱迪生"
+}, {
+	"en_name": "Alco",
+	"id": 63,
+	"name": "爱高"
+}, {
+	"en_name": "Aigo",
+	"id": 2842,
+	"name": "爱国者"
+}, {
+	"en_name": "Aiwa",
+	"id": 307,
+	"name": "爱华"
+}, {
+	"en_name": "Akira",
+	"id": 1697,
+	"name": "爱家乐"
+}, {
+	"en_name": "Aikerui",
+	"id": 1807,
+	"name": "艾科瑞"
+}, {
+	"en_name": "Avlight",
+	"id": 2312,
+	"name": "爱浪"
+}, {
+	"en_name": "Aileite",
+	"id": 396,
+	"name": "艾雷特"
+}, {
+	"en_name": "ELMO",
+	"id": 180,
+	"name": "艾路摩"
+}, {
+	"en_name": "Almond",
+	"id": 88,
+	"name": "艾曼达"
+}, {
+	"en_name": "IMGO",
+	"id": 1666,
+	"name": "爱芒果"
+}, {
+	"en_name": "Airmate",
+	"id": 2602,
+	"name": "艾美特"
+}, {
+	"en_name": "Emerson",
+	"id": 982,
+	"name": "艾默生"
+}, {
+	"en_name": "Apton",
+	"id": 4962,
+	"name": "艾普顿"
+}, {
+	"en_name": "Epson",
+	"id": 1317,
+	"name": "爱普生"
+}, {
+	"en_name": "Eiki",
+	"id": 1872,
+	"name": "爱其"
+}, {
+	"en_name": "Adcom",
+	"id": 2317,
+	"name": "爱琴"
+}, {
+	"en_name": "iQIYI",
+	"id": 120,
+	"name": "爱奇艺"
+}, {
+	"en_name": "Asioma",
+	"id": 1762,
+	"name": "艾视麦"
+}, {
+	"en_name": "Aethra",
+	"id": 1702,
+	"name": "爱斯乐"
+}, {
+	"en_name": "Aite",
+	"id": 667,
+	"name": "爱特"
+}, {
+	"en_name": "AbramTek",
+	"id": 789,
+	"name": "艾特铭客"
+}, {
+	"en_name": "Aone",
+	"id": 61,
+	"name": "艾韵"
+}, {
+	"en_name": "Aragon",
+	"id": 2322,
+	"name": "阿拉贡"
+}, {
+	"en_name": "Ariston",
+	"id": 391,
+	"name": "阿里斯顿"
+}, {
+	"en_name": "Allsonic",
+	"id": 805,
+	"name": "Allsonic"
+}, {
+	"en_name": "Alpha",
+	"id": 225,
+	"name": "Alpha"
+}, {
+	"en_name": "Ambassador",
+	"id": 1208,
+	"name": "Ambassador"
+}, {
+	"en_name": "Amico",
+	"id": 1707,
+	"name": "Amico"
+}, {
+	"en_name": "Amina",
+	"id": 1261,
+	"name": "阿米纳"
+}, {
+	"en_name": "Ampro",
+	"id": 3062,
+	"name": "Ampro"
+}, {
+	"en_name": "Amstrad",
+	"id": 3058,
+	"name": "Amstrad"
+}, {
+	"en_name": "Anhua",
+	"id": 3460,
+	"name": "安华"
+}, {
+	"en_name": "Atmosphere",
+	"id": 384,
+	"name": "安利"
+}, {
+	"en_name": "Onkyo",
+	"id": 1712,
+	"name": "安桥"
+}, {
+	"en_name": "Odor",
+	"id": 2682,
+	"name": "奥德尔"
+}, {
+	"en_name": "Aoguang",
+	"id": 151,
+	"name": "澳广科技"
+}, {
+	"en_name": "Aoke",
+	"id": 327,
+	"name": "澳科"
+}, {
+	"en_name": "Aucma",
+	"id": 102,
+	"name": "澳柯玛"
+}, {
+	"en_name": "Aux",
+	"id": 192,
+	"name": "奥克斯"
+}, {
+	"en_name": "Alllike",
+	"id": 1717,
+	"name": "奥莱克"
+}, {
+	"en_name": "OLI",
+	"id": 322,
+	"name": "奥力"
+}, {
+	"en_name": "Audiolab",
+	"id": 4855,
+	"name": "傲立"
+}, {
+	"en_name": "AOLIJIA",
+	"id": 2327,
+	"name": "奥利佳"
+}, {
+	"en_name": "Olympus",
+	"id": 2847,
+	"name": "奥林巴斯"
+}, {
+	"en_name": "Olymdanton",
+	"id": 121,
+	"name": "奥林丹顿"
+}, {
+	"en_name": "Olympic",
+	"id": 46,
+	"name": "奥林匹克"
+}, {
+	"en_name": "Aolinpiya",
+	"id": 2397,
+	"name": "奥林匹亚"
+}, {
+	"en_name": "Aolinpu",
+	"id": 2402,
+	"name": "奥林普"
+}, {
+	"en_name": "Aonice",
+	"id": 153,
+	"name": "奥丽思"
+}, {
+	"en_name": "OLEVIA",
+	"id": 817,
+	"name": "奥丽维亚"
+}, {
+	"en_name": "Aomeiteng",
+	"id": 1169,
+	"name": "奥美腾"
+}, {
+	"en_name": "Altec lansing",
+	"id": 1722,
+	"name": "奥特蓝星"
+}, {
+	"en_name": "Optoma",
+	"id": 352,
+	"name": "奥图码"
+}, {
+	"en_name": "Otto Versand",
+	"id": 3150,
+	"name": "奥托邮购"
+}, {
+	"en_name": "Aoweige",
+	"id": 829,
+	"name": "澳威格"
+}, {
+	"en_name": "Apacer",
+	"id": 4893,
+	"name": "Apacer"
+}, {
+	"en_name": "Apex",
+	"id": 1727,
+	"name": "APEX"
+}, {
+	"en_name": "Apple",
+	"id": 311,
+	"name": "Apple"
+}, {
+	"en_name": "Arashi",
+	"id": 808,
+	"name": "Arashi"
+}, {
+	"en_name": "Artograph",
+	"id": 78,
+	"name": "Artograph"
+}, {
+	"en_name": "USATON",
+	"id": 395,
+	"name": "阿诗丹顿"
+}, {
+	"en_name": "ASK Proxima",
+	"id": 79,
+	"name": "ASK Proxima"
+}, {
+	"en_name": "Atomberg",
+	"id": 2354,
+	"name": "Atomberg"
+}, {
+	"en_name": "Audio Access",
+	"id": 4807,
+	"name": "Audio Access"
+}, {
+	"en_name": "Audio Innovations",
+	"id": 4856,
+	"name": "Audio Innovations"
+}, {
+	"en_name": "Audio Matrix",
+	"id": 4845,
+	"name": "Audio Matrix"
+}, {
+	"en_name": "Audio Research",
+	"id": 4859,
+	"name": "Audio Research"
+}, {
+	"en_name": "Auvio",
+	"id": 2993,
+	"name": "Auvio"
+}, {
+	"en_name": "B&K",
+	"id": 261,
+	"name": "B&K"
+}, {
+	"en_name": "BaiBian MoHe",
+	"id": 613,
+	"name": "百变魔盒"
+}, {
+	"en_name": "baidu",
+	"id": 1207,
+	"name": "百度"
+}, {
+	"en_name": "Lily",
+	"id": 154,
+	"name": "百合"
+}, {
+	"en_name": "Baihehua",
+	"id": 3462,
+	"name": "百合花"
+}, {
+	"en_name": "Baihua",
+	"id": 397,
+	"name": "百花"
+}, {
+	"en_name": "Bairan",
+	"id": 186,
+	"name": "白朗"
+}, {
+	"en_name": "Baile",
+	"id": 407,
+	"name": "佰乐"
+}, {
+	"en_name": "Baili",
+	"id": 2822,
+	"name": "百立"
+}, {
+	"en_name": "ECE",
+	"id": 25,
+	"name": "百容"
+}, {
+	"en_name": "BesTV",
+	"id": 1462,
+	"name": "百视通"
+}, {
+	"en_name": "Bswee",
+	"id": 2712,
+	"name": "百视维"
+}, {
+	"en_name": "BSW",
+	"id": 810,
+	"name": "百视威"
+}, {
+	"en_name": "Best",
+	"id": 790,
+	"name": "佰思特"
+}, {
+	"en_name": "Baixue",
+	"id": 337,
+	"name": "白雪"
+}, {
+	"en_name": "Barco",
+	"id": 3102,
+	"name": "巴可"
+}, {
+	"en_name": "Banshen",
+	"id": 4926,
+	"name": "阪神"
+}, {
+	"en_name": "BanTian",
+	"id": 1150,
+	"name": "坂田"
+}, {
+	"en_name": "Protech",
+	"id": 2407,
+	"name": "保迪"
+}, {
+	"en_name": "Baofeng tv",
+	"id": 18,
+	"name": "暴风TV"
+}, {
+	"en_name": "BAOHUASHI",
+	"id": 417,
+	"name": "宝华视"
+}, {
+	"en_name": "Boxlight",
+	"id": 1877,
+	"name": "宝莱特"
+}, {
+	"en_name": "Polytron",
+	"id": 422,
+	"name": "宝立创"
+}, {
+	"en_name": "Polyvision",
+	"id": 2117,
+	"name": "宝丽金"
+}, {
+	"en_name": "Polaroid",
+	"id": 427,
+	"name": "宝丽莱"
+}, {
+	"en_name": "Polycom",
+	"id": 229,
+	"name": "宝利通"
+}, {
+	"en_name": "Parasound",
+	"id": 1732,
+	"name": "宝丽音"
+}, {
+	"en_name": "Booloom",
+	"id": 354,
+	"name": "宝麓马"
+}, {
+	"en_name": "Popcorn Hour",
+	"id": 1737,
+	"name": "爆米花"
+}, {
+	"en_name": "Baosheng",
+	"id": 432,
+	"name": "宝声"
+}, {
+	"en_name": "Proxima",
+	"id": 1882,
+	"name": "宝施玛"
+}, {
+	"en_name": "Baumann Meyer",
+	"id": 4823,
+	"name": "Baumann Meyer"
+}, {
+	"en_name": "bawang",
+	"id": 830,
+	"name": "霸王"
+}, {
+	"en_name": "Baysonic",
+	"id": 3033,
+	"name": "Baysonic"
+}, {
+	"en_name": "Beiang",
+	"id": 385,
+	"name": "贝昂"
+}, {
+	"en_name": "Sbell",
+	"id": 2360,
+	"name": "贝尔"
+}, {
+	"en_name": "Beijing",
+	"id": 442,
+	"name": "北京"
+}, {
+	"en_name": "JDC",
+	"id": 342,
+	"name": "北京京电"
+}, {
+	"en_name": "Beko",
+	"id": 447,
+	"name": "倍科"
+}, {
+	"en_name": "Beili",
+	"id": 185,
+	"name": "贝丽"
+}, {
+	"en_name": "Bell & Howell",
+	"id": 2970,
+	"name": "贝灵巧"
+}, {
+	"en_name": "Bel Canto",
+	"id": 4824,
+	"name": "Bel Canto"
+}, {
+	"en_name": "Beuamark",
+	"id": 1209,
+	"name": "Beuamark"
+}, {
+	"en_name": "Bianfeng",
+	"id": 123,
+	"name": "边锋"
+}, {
+	"en_name": "Bianfu",
+	"id": 223,
+	"name": "蝙蝠"
+}, {
+	"en_name": "Bealich",
+	"id": 393,
+	"name": "比力奇"
+}, {
+	"en_name": "Pentax",
+	"id": 2857,
+	"name": "宾得"
+}, {
+	"en_name": "Ice Master",
+	"id": 1777,
+	"name": "冰尊"
+}, {
+	"en_name": "Benwin",
+	"id": 1896,
+	"name": "宾维"
+}, {
+	"en_name": "Bevix",
+	"id": 2920,
+	"name": "碧维视"
+}, {
+	"en_name": "BMB",
+	"id": 1742,
+	"name": "BMB"
+}, {
+	"en_name": "Boerka",
+	"id": 347,
+	"name": "波尔卡"
+}, {
+	"en_name": "Bole",
+	"id": 562,
+	"name": "波乐"
+}, {
+	"en_name": "BoxSam",
+	"id": 2157,
+	"name": "博尚电子"
+}, {
+	"en_name": "BOSCH",
+	"id": 572,
+	"name": "博世"
+}, {
+	"en_name": "Bose",
+	"id": 1747,
+	"name": "博士"
+}, {
+	"en_name": "Boston Acoustics",
+	"id": 4820,
+	"name": "波士顿声学"
+}, {
+	"en_name": "Boshigao",
+	"id": 567,
+	"name": "波士高"
+}, {
+	"en_name": "Boshimei",
+	"id": 1195,
+	"name": "铂视美"
+}, {
+	"en_name": "Bowers&Wilkins",
+	"id": 273,
+	"name": "Bowers&Wilkins"
+}, {
+	"en_name": "Boxun",
+	"id": 1194,
+	"name": "铂迅"
+}, {
+	"en_name": "Boigle",
+	"id": 2412,
+	"name": "博一格数码"
+}, {
+	"en_name": "Boyin",
+	"id": 163,
+	"name": "波音"
+}, {
+	"en_name": "Boyuan",
+	"id": 2812,
+	"name": "博远"
+}, {
+	"en_name": "Broksonic",
+	"id": 1752,
+	"name": "Broksonic"
+}, {
+	"en_name": "BBK",
+	"id": 452,
+	"name": "步步高"
+}, {
+	"en_name": "Bush",
+	"id": 2417,
+	"name": "布什"
+}, {
+	"en_name": "Rainbow",
+	"id": 2422,
+	"name": "彩虹"
+}, {
+	"en_name": "Cailing",
+	"id": 542,
+	"name": "彩凌"
+}, {
+	"en_name": "Caishi",
+	"id": 23,
+	"name": "彩诗"
+}, {
+	"en_name": "Playmates",
+	"id": 547,
+	"name": "彩星"
+}, {
+	"en_name": "Caixun",
+	"id": 2427,
+	"name": "彩讯"
+}, {
+	"en_name": "Cambridge Audio",
+	"id": 4708,
+	"name": "Cambridge Audio"
+}, {
+	"en_name": "Tkec",
+	"id": 2647,
+	"name": "灿坤"
+}, {
+	"en_name": "Canston",
+	"id": 2524,
+	"name": "Canston"
+}, {
+	"en_name": "Carver",
+	"id": 4808,
+	"name": "Carver"
+}, {
+	"en_name": "Cary",
+	"id": 4836,
+	"name": "Cary"
+}, {
+	"en_name": "Changlong",
+	"id": 2870,
+	"name": "昌隆科技"
+}, {
+	"en_name": "Changxin",
+	"id": 2526,
+	"name": "常新"
+}, {
+	"en_name": "Channel Vision",
+	"id": 4822,
+	"name": "Channel Vision"
+}, {
+	"en_name": "Sunniwell",
+	"id": 1272,
+	"name": "朝歌数码"
+}, {
+	"en_name": "Chaohong",
+	"id": 1430,
+	"name": "朝虹"
+}, {
+	"en_name": "Asano",
+	"id": 457,
+	"name": "朝野科技"
+}, {
+	"en_name": "Chaparral",
+	"id": 1113,
+	"name": "Chaparral"
+}, {
+	"en_name": "Chebo",
+	"id": 416,
+	"name": "诚宝冷气"
+}, {
+	"en_name": "Chengdu",
+	"id": 1186,
+	"name": "成都"
+}, {
+	"en_name": "Daystar",
+	"id": 1887,
+	"name": "晨星"
+}, {
+	"en_name": "CHKQ",
+	"id": 9,
+	"name": "CHKQ"
+}, {
+	"en_name": "Oki",
+	"id": 3088,
+	"name": "冲电气"
+}, {
+	"en_name": "Chuanghua",
+	"id": 582,
+	"name": "创华"
+}, {
+	"en_name": "Canca",
+	"id": 247,
+	"name": "创佳"
+}, {
+	"en_name": "Skyworth",
+	"id": 2,
+	"name": "创维"
+}, {
+	"en_name": "Creative",
+	"id": 4864,
+	"name": "创新"
+}, {
+	"en_name": "Chuangye",
+	"id": 170,
+	"name": "创野"
+}, {
+	"en_name": "Funai",
+	"id": 1847,
+	"name": "船井"
+}, {
+	"en_name": "Kawasaki",
+	"id": 66,
+	"name": "川崎"
+}, {
+	"en_name": "Chunfeng",
+	"id": 612,
+	"name": "春风"
+}, {
+	"en_name": "Chunghsin",
+	"id": 640,
+	"name": "Chunghsin"
+}, {
+	"en_name": "Chunlan",
+	"id": 117,
+	"name": "春兰"
+}, {
+	"en_name": "Chunsun",
+	"id": 607,
+	"name": "春笋"
+}, {
+	"en_name": "Cinego",
+	"id": 80,
+	"name": "Cinego"
+}, {
+	"en_name": "Citation",
+	"id": 4843,
+	"name": "Citation"
+}, {
+	"en_name": "Cox",
+	"id": 3718,
+	"name": "Cox"
+}, {
+	"en_name": "Curtis",
+	"id": 2951,
+	"name": "Curtis"
+}, {
+	"en_name": "Daiko",
+	"id": 1616,
+	"name": "大光"
+}, {
+	"en_name": "Dahua",
+	"id": 1467,
+	"name": "大华"
+}, {
+	"en_name": "Dell",
+	"id": 382,
+	"name": "戴尔"
+}, {
+	"en_name": "Dyson",
+	"id": 4959,
+	"name": "戴森"
+}, {
+	"en_name": "DaiKin",
+	"id": 187,
+	"name": "大金"
+}, {
+	"en_name": "Dajinxing",
+	"id": 1092,
+	"name": "大金星"
+}, {
+	"en_name": "Dalen",
+	"id": 2880,
+	"name": "达伦"
+}, {
+	"en_name": "Domy",
+	"id": 2057,
+	"name": "大麦"
+}, {
+	"en_name": "Dynex",
+	"id": 387,
+	"name": "丹尼克斯"
+}, {
+	"en_name": "Dantax",
+	"id": 392,
+	"name": "丹特声"
+}, {
+	"en_name": "INADA",
+	"id": 737,
+	"name": "稻田"
+}, {
+	"en_name": "Osaki",
+	"id": 372,
+	"name": "大崎"
+}, {
+	"en_name": "Tosot",
+	"id": 371,
+	"name": "大松"
+}, {
+	"en_name": "Tatung",
+	"id": 637,
+	"name": "大同"
+}, {
+	"en_name": "Daxian",
+	"id": 142,
+	"name": "大显"
+}, {
+	"en_name": "Dare",
+	"id": 92,
+	"name": "大亚"
+}, {
+	"en_name": "Daewoo",
+	"id": 377,
+	"name": "大宇"
+}, {
+	"en_name": "Tevion",
+	"id": 2432,
+	"name": "德国莫顿"
+}, {
+	"en_name": "Symphonic Line",
+	"id": 791,
+	"name": "德国之声"
+}, {
+	"en_name": "Thakral",
+	"id": 2442,
+	"name": "德加拉"
+}, {
+	"en_name": "Digitec",
+	"id": 367,
+	"name": "德基德克"
+}, {
+	"en_name": "Dll",
+	"id": 2437,
+	"name": "德丽珑"
+}, {
+	"en_name": "Telefunken",
+	"id": 887,
+	"name": "德律风根"
+}, {
+	"en_name": "Desay",
+	"id": 1832,
+	"name": "德赛"
+}, {
+	"en_name": "Detron",
+	"id": 1211,
+	"name": "Detron"
+}, {
+	"en_name": "Denstar",
+	"id": 2447,
+	"name": "电城"
+}, {
+	"en_name": "IPTV MOHO",
+	"id": 1327,
+	"name": "电信魔盒"
+}, {
+	"en_name": "Dier",
+	"id": 188,
+	"name": "谛尔"
+}, {
+	"en_name": "Dingke",
+	"id": 497,
+	"name": "鼎科"
+}, {
+	"en_name": "Dipaer",
+	"id": 747,
+	"name": "迪帕尔"
+}, {
+	"en_name": "Detail",
+	"id": 2747,
+	"name": "迪泰尔"
+}, {
+	"en_name": "DITONG",
+	"id": 1826,
+	"name": "蒂彤"
+}, {
+	"en_name": "Five",
+	"id": 5,
+	"name": "第五元素"
+}, {
+	"en_name": "Teac",
+	"id": 492,
+	"name": "蒂雅克"
+}, {
+	"en_name": "DiyoMata",
+	"id": 1202,
+	"name": "迪优美特"
+}, {
+	"en_name": "Dizhi",
+	"id": 1426,
+	"name": "帝智"
+}, {
+	"en_name": "Dongao",
+	"id": 772,
+	"name": "东澳"
+}, {
+	"en_name": "Tobo",
+	"id": 532,
+	"name": "东宝"
+}, {
+	"en_name": "Dongda",
+	"id": 507,
+	"name": "东大"
+}, {
+	"en_name": "Tuntex",
+	"id": 56,
+	"name": "东帝士"
+}, {
+	"en_name": "Orient View",
+	"id": 1497,
+	"name": "东方广视"
+}, {
+	"en_name": "Panchromatic",
+	"id": 1392,
+	"name": "东方松下"
+}, {
+	"en_name": "Donghai",
+	"id": 502,
+	"name": "东海"
+}, {
+	"en_name": "Eastkit",
+	"id": 527,
+	"name": "东杰"
+}, {
+	"en_name": "Donglin",
+	"id": 512,
+	"name": "东林"
+}, {
+	"en_name": "Tomico",
+	"id": 522,
+	"name": "东凌"
+}, {
+	"en_name": "Dongling",
+	"id": 1189,
+	"name": "冬凌"
+}, {
+	"en_name": "SAMOS",
+	"id": 2522,
+	"name": "东门子"
+}, {
+	"en_name": "Dongtai",
+	"id": 1487,
+	"name": "东太"
+}, {
+	"en_name": "Donxia",
+	"id": 782,
+	"name": "冬夏"
+}, {
+	"en_name": "Dongxinbao",
+	"id": 987,
+	"name": "东新宝"
+}, {
+	"en_name": "TYD",
+	"id": 517,
+	"name": "东洋电视"
+}, {
+	"en_name": "Toyohuifeng",
+	"id": 1517,
+	"name": "东洋汇丰"
+}, {
+	"en_name": "TECO",
+	"id": 617,
+	"name": "东元"
+}, {
+	"en_name": "Toshiba",
+	"id": 22,
+	"name": "东芝"
+}, {
+	"en_name": "Doshisha",
+	"id": 2514,
+	"name": "Doshisha"
+}, {
+	"en_name": "Dream Vision",
+	"id": 2452,
+	"name": "Dream Vision"
+}, {
+	"en_name": "DSE",
+	"id": 3426,
+	"name": "DSE"
+}, {
+	"en_name": "DSTv",
+	"id": 3964,
+	"name": "DSTv"
+}, {
+	"en_name": "Dukane",
+	"id": 81,
+	"name": "Dukane"
+}, {
+	"en_name": "Dunan",
+	"id": 992,
+	"name": "盾安"
+}, {
+	"en_name": "Duoli",
+	"id": 2672,
+	"name": "多丽"
+}, {
+	"en_name": "Durabrand",
+	"id": 2989,
+	"name": "Durabrand"
+}, {
+	"en_name": "Dwin",
+	"id": 3065,
+	"name": "Dwin"
+}, {
+	"en_name": "E-Linker",
+	"id": 2521,
+	"name": "E-Linker"
+}, {
+	"en_name": "Electrohome",
+	"id": 2971,
+	"name": "Electrohome"
+}, {
+	"en_name": "Elta",
+	"id": 4748,
+	"name": "Elta"
+}, {
+	"en_name": "Emotiva",
+	"id": 4834,
+	"name": "Emotiva"
+}, {
+	"en_name": "Equantu",
+	"id": 595,
+	"name": "Equantu"
+}, {
+	"en_name": "Erling",
+	"id": 2865,
+	"name": "二菱"
+}, {
+	"en_name": "Escient",
+	"id": 1837,
+	"name": "Escient"
+}, {
+	"en_name": "EuropAce",
+	"id": 221,
+	"name": "EuropAce"
+}, {
+	"en_name": "Falanbao",
+	"id": 997,
+	"name": "法兰宝"
+}, {
+	"en_name": "Faroudja",
+	"id": 1842,
+	"name": "发路达"
+}, {
+	"en_name": "Ferroli",
+	"id": 398,
+	"name": "法罗力"
+}, {
+	"en_name": "FZM",
+	"id": 1618,
+	"name": "方米"
+}, {
+	"en_name": "Founder",
+	"id": 1897,
+	"name": "方正"
+}, {
+	"en_name": "Fedders",
+	"id": 4907,
+	"name": "飞达仕"
+}, {
+	"en_name": "Feidie",
+	"id": 220,
+	"name": "飞碟"
+}, {
+	"en_name": "Phlgco",
+	"id": 462,
+	"name": "飞歌"
+}, {
+	"en_name": "Phylina",
+	"id": 635,
+	"name": "飞兰"
+}, {
+	"en_name": "Feilang",
+	"id": 467,
+	"name": "飞浪"
+}, {
+	"en_name": "Philips",
+	"id": 52,
+	"name": "飞利浦"
+}, {
+	"en_name": "Feilu",
+	"id": 472,
+	"name": "飞鹿"
+}, {
+	"en_name": "Feiyan",
+	"id": 477,
+	"name": "飞燕"
+}, {
+	"en_name": "Feiyue",
+	"id": 2457,
+	"name": "飞跃"
+}, {
+	"en_name": "FYSZKJ",
+	"id": 2372,
+	"name": "飞越"
+}, {
+	"en_name": "Toyotomi",
+	"id": 4925,
+	"name": "丰臣"
+}, {
+	"en_name": "FiberHome",
+	"id": 1232,
+	"name": "烽火"
+}, {
+	"en_name": "HPP",
+	"id": 1118,
+	"name": "锋派"
+}, {
+	"en_name": "FunTV",
+	"id": 478,
+	"name": "风行TV"
+}, {
+	"en_name": "Fengying",
+	"id": 2592,
+	"name": "锋影"
+}, {
+	"en_name": "Fortress",
+	"id": 2462,
+	"name": "丰泽"
+}, {
+	"en_name": "Fisher",
+	"id": 1852,
+	"name": "Fisher"
+}, {
+	"en_name": "Fosgate",
+	"id": 4809,
+	"name": "Fosgate"
+}, {
+	"en_name": "Frigidaire",
+	"id": 2467,
+	"name": "富及第"
+}, {
+	"en_name": "Infocus",
+	"id": 1322,
+	"name": "富可视"
+}, {
+	"en_name": "Fulei",
+	"id": 2727,
+	"name": "富雷"
+}, {
+	"en_name": "Fuli",
+	"id": 2472,
+	"name": "富里"
+}, {
+	"en_name": "Wealthy",
+	"id": 566,
+	"name": "富丽"
+}, {
+	"en_name": "Furi",
+	"id": 2477,
+	"name": "福日"
+}, {
+	"en_name": "Fujifilm",
+	"id": 178,
+	"name": "富士"
+}, {
+	"en_name": "Fushibao",
+	"id": 2622,
+	"name": "富士宝"
+}, {
+	"en_name": "Foxconn",
+	"id": 2482,
+	"name": "富士康"
+}, {
+	"en_name": "Fujitsu",
+	"id": 487,
+	"name": "富士通"
+}, {
+	"en_name": "Frontech",
+	"id": 482,
+	"name": "富士通先端科技"
+}, {
+	"en_name": "Futuretech",
+	"id": 1213,
+	"name": "Futuretech"
+}, {
+	"en_name": "Gangtai",
+	"id": 3464,
+	"name": "港泰"
+}, {
+	"en_name": "Ganxin",
+	"id": 622,
+	"name": "赣新"
+}, {
+	"en_name": "Coby",
+	"id": 627,
+	"name": "高飞"
+}, {
+	"en_name": "Gaoke",
+	"id": 4,
+	"name": "高科"
+}, {
+	"en_name": "Conrowa",
+	"id": 587,
+	"name": "高路华"
+}, {
+	"en_name": "CHNAVS",
+	"id": 2367,
+	"name": "高清视信"
+}, {
+	"en_name": "Goldstar",
+	"id": 632,
+	"name": "高士达"
+}, {
+	"en_name": "KOSS",
+	"id": 1982,
+	"name": "高斯"
+}, {
+	"en_name": "Gospell",
+	"id": 807,
+	"name": "高斯贝尔"
+}, {
+	"en_name": "Geer",
+	"id": 1002,
+	"name": "格尔"
+}, {
+	"en_name": "Gramee",
+	"id": 373,
+	"name": "格莱美"
+}, {
+	"en_name": "Galanz",
+	"id": 147,
+	"name": "格兰仕"
+}, {
+	"en_name": "Clarion",
+	"id": 278,
+	"name": "歌乐"
+}, {
+	"en_name": "Gree",
+	"id": 97,
+	"name": "格力"
+}, {
+	"en_name": "Kolin",
+	"id": 657,
+	"name": "歌林"
+}, {
+	"en_name": "Grundig",
+	"id": 672,
+	"name": "根德"
+}, {
+	"en_name": "Great Hopes",
+	"id": 89,
+	"name": "格瑞普斯"
+}, {
+	"en_name": "Gewang",
+	"id": 1987,
+	"name": "歌王"
+}, {
+	"en_name": "GEWEIER",
+	"id": 1662,
+	"name": "格威尔"
+}, {
+	"en_name": "Geyang",
+	"id": 1097,
+	"name": "格阳"
+}, {
+	"en_name": "GMCC",
+	"id": 795,
+	"name": "GMCC"
+}, {
+	"en_name": "Go Video",
+	"id": 60,
+	"name": "Go Video"
+}, {
+	"en_name": "GoVideo",
+	"id": 2965,
+	"name": "GoVideo"
+}, {
+	"en_name": "Gradiente",
+	"id": 1992,
+	"name": "Gradiente"
+}, {
+	"en_name": "Grunpy",
+	"id": 1214,
+	"name": "Grunpy"
+}, {
+	"en_name": "Guanfang",
+	"id": 1503,
+	"name": "冠方科技"
+}, {
+	"en_name": "Guangda",
+	"id": 1102,
+	"name": "光大"
+}, {
+	"en_name": "Guangxing",
+	"id": 328,
+	"name": "广行科技"
+}, {
+	"en_name": "AOC",
+	"id": 277,
+	"name": "冠捷"
+}, {
+	"en_name": "Kingwer",
+	"id": 2529,
+	"name": "冠唯"
+}, {
+	"en_name": "Guanyuan",
+	"id": 353,
+	"name": "冠远"
+}, {
+	"en_name": "Guoji",
+	"id": 1332,
+	"name": "国际"
+}, {
+	"en_name": "Guqiao",
+	"id": 1107,
+	"name": "古桥"
+}, {
+	"en_name": "Haibo",
+	"id": 1997,
+	"name": "海博"
+}, {
+	"en_name": "Advante",
+	"id": 20,
+	"name": "海得曼"
+}, {
+	"en_name": "Haier",
+	"id": 37,
+	"name": "海尔"
+}, {
+	"en_name": "HaiT",
+	"id": 1767,
+	"name": "嗨盒"
+}, {
+	"en_name": "HAIHONG",
+	"id": 677,
+	"name": "海虹"
+}, {
+	"en_name": "Haikewei",
+	"id": 2392,
+	"name": "海克威"
+}, {
+	"en_name": "HAILE",
+	"id": 682,
+	"name": "海乐"
+}, {
+	"en_name": "HiMedia",
+	"id": 1197,
+	"name": "海美迪"
+}, {
+	"en_name": "HISU Tech",
+	"id": 2237,
+	"name": "海数科技"
+}, {
+	"en_name": "Hisense",
+	"id": 7,
+	"name": "海信"
+}, {
+	"en_name": "Haiyan",
+	"id": 3468,
+	"name": "海燕"
+}, {
+	"en_name": "Hallmark",
+	"id": 3028,
+	"name": "Hallmark"
+}, {
+	"en_name": "Hallpad",
+	"id": 2542,
+	"name": "Hallpad"
+}, {
+	"en_name": "Harman Kardon",
+	"id": 2002,
+	"name": "哈曼卡顿"
+}, {
+	"en_name": "Hande",
+	"id": 2885,
+	"name": "汉的"
+}, {
+	"en_name": "Korechi",
+	"id": 11,
+	"name": "韩电"
+}, {
+	"en_name": "Parlatin",
+	"id": 71,
+	"name": "韩锋"
+}, {
+	"en_name": "D&Q",
+	"id": 1596,
+	"name": "瀚丽美"
+}, {
+	"en_name": "Hanns.G",
+	"id": 2487,
+	"name": "瀚视奇"
+}, {
+	"en_name": "Hannspree",
+	"id": 262,
+	"name": "瀚斯宝丽"
+}, {
+	"en_name": "IG",
+	"id": 3523,
+	"name": "韩中"
+}, {
+	"en_name": "Haoer",
+	"id": 2331,
+	"name": "好尔"
+}, {
+	"en_name": "Haojingcai",
+	"id": 1170,
+	"name": "好精彩"
+}, {
+	"en_name": "Horion",
+	"id": 2562,
+	"name": "皓丽"
+}, {
+	"en_name": "Goodmans",
+	"id": 2492,
+	"name": "好人士"
+}, {
+	"en_name": "Heran",
+	"id": 687,
+	"name": "禾联"
+}, {
+	"en_name": "Herosonic",
+	"id": 2497,
+	"name": "禾聊硕"
+}, {
+	"en_name": "HOTS",
+	"id": 638,
+	"name": "盒天下"
+}, {
+	"en_name": "Homita",
+	"id": 2007,
+	"name": "Homita"
+}, {
+	"en_name": "Honghe",
+	"id": 8,
+	"name": "鸿合"
+}, {
+	"en_name": "Hongme",
+	"id": 554,
+	"name": "红梅"
+}, {
+	"en_name": "Hongmei",
+	"id": 697,
+	"name": "虹美"
+}, {
+	"en_name": "Acer",
+	"id": 642,
+	"name": "宏碁"
+}, {
+	"en_name": "Hong yan",
+	"id": 555,
+	"name": "红岩"
+}, {
+	"en_name": "Huabao",
+	"id": 592,
+	"name": "华宝"
+}, {
+	"en_name": "Huabai",
+	"id": 244,
+	"name": "华柏"
+}, {
+	"en_name": "Warton",
+	"id": 1199,
+	"name": "华顿"
+}, {
+	"en_name": "Huafa",
+	"id": 2502,
+	"name": "华发"
+}, {
+	"en_name": "Huagao",
+	"id": 1112,
+	"name": "华高"
+}, {
+	"en_name": "Richland",
+	"id": 219,
+	"name": "华格立"
+}, {
+	"en_name": "Hiplus",
+	"id": 2507,
+	"name": "画佳"
+}, {
+	"en_name": "Huake",
+	"id": 1117,
+	"name": "华科"
+}, {
+	"en_name": "Hualing",
+	"id": 1597,
+	"name": "华凌"
+}, {
+	"en_name": "Hualu",
+	"id": 2012,
+	"name": "华录"
+}, {
+	"en_name": "Huamei",
+	"id": 1122,
+	"name": "华美"
+}, {
+	"en_name": "Crown",
+	"id": 2332,
+	"name": "皇冠"
+}, {
+	"en_name": "Huanghaimei",
+	"id": 28,
+	"name": "黄海美"
+}, {
+	"en_name": "Huanghe",
+	"id": 1127,
+	"name": "黄河"
+}, {
+	"en_name": "Huanglong",
+	"id": 29,
+	"name": "黄龙"
+}, {
+	"en_name": "Huangshan",
+	"id": 30,
+	"name": "黄山"
+}, {
+	"en_name": "Huangshi",
+	"id": 2582,
+	"name": "皇视"
+}, {
+	"en_name": "Monix",
+	"id": 43,
+	"name": "幻象"
+}, {
+	"en_name": "Huanying",
+	"id": 245,
+	"name": "环影"
+}, {
+	"en_name": "Huanyu",
+	"id": 3259,
+	"name": "环宇"
+}, {
+	"en_name": "Huaqiang",
+	"id": 3470,
+	"name": "华强"
+}, {
+	"en_name": "Kll",
+	"id": 35,
+	"name": "华融"
+}, {
+	"en_name": "Hua Tun",
+	"id": 31,
+	"name": "华润"
+}, {
+	"en_name": "Wahson",
+	"id": 2612,
+	"name": "华生"
+}, {
+	"en_name": "Huashi",
+	"id": 1817,
+	"name": "华视"
+}, {
+	"en_name": "ASUS",
+	"id": 282,
+	"name": "华硕"
+}, {
+	"en_name": "Huasu",
+	"id": 374,
+	"name": "华塑"
+}, {
+	"en_name": "Huawei",
+	"id": 157,
+	"name": "华为"
+}, {
+	"en_name": "Hughes",
+	"id": 3665,
+	"name": "Hughes"
+}, {
+	"en_name": "Huicai",
+	"id": 788,
+	"name": "汇彩"
+}, {
+	"en_name": "Huicheng",
+	"id": 2717,
+	"name": "汇成"
+}, {
+	"en_name": "Whirlpool",
+	"id": 227,
+	"name": "惠而浦"
+}, {
+	"en_name": "Huifeng",
+	"id": 1132,
+	"name": "汇丰"
+}, {
+	"en_name": "Huijiaban",
+	"id": 556,
+	"name": "汇佳板"
+}, {
+	"en_name": "Waycon",
+	"id": 59,
+	"name": "惠佳捷"
+}, {
+	"en_name": "Hicon",
+	"id": 1522,
+	"name": "惠康"
+}, {
+	"en_name": "HKC",
+	"id": 2387,
+	"name": "惠科"
+}, {
+	"en_name": "Huilong",
+	"id": 376,
+	"name": "慧龙"
+}, {
+	"en_name": "HPC",
+	"id": 2772,
+	"name": "惠浦"
+}, {
+	"en_name": "HuiPu",
+	"id": 1103,
+	"name": "慧蒲"
+}, {
+	"en_name": "HP",
+	"id": 1902,
+	"name": "惠普"
+}, {
+	"en_name": "Across",
+	"id": 2567,
+	"name": "慧浦神望"
+}, {
+	"en_name": "Huiwei",
+	"id": 259,
+	"name": "惠威"
+}, {
+	"en_name": "Humax",
+	"id": 3086,
+	"name": "Humax"
+}, {
+	"en_name": "Huoda",
+	"id": 3472,
+	"name": "豁达特技"
+}, {
+	"en_name": "Honeywell",
+	"id": 3451,
+	"name": "霍尼韦尔"
+}, {
+	"en_name": "iLive",
+	"id": 4706,
+	"name": "iLive"
+}, {
+	"en_name": "Integra",
+	"id": 2017,
+	"name": "Integra"
+}, {
+	"en_name": "Inteo",
+	"id": 1215,
+	"name": "Inteo"
+}, {
+	"en_name": "Iris Ohyama",
+	"id": 2515,
+	"name": "Iris Ohyama"
+}, {
+	"en_name": "iSymphony",
+	"id": 3376,
+	"name": "iSymphony"
+}, {
+	"en_name": "iWatch",
+	"id": 4339,
+	"name": "iWatch"
+}, {
+	"en_name": "JATON",
+	"id": 2022,
+	"name": "JATON"
+}, {
+	"en_name": "JAV",
+	"id": 1212,
+	"name": "JAV"
+}, {
+	"en_name": "JBL",
+	"id": 4810,
+	"name": "JBL"
+}, {
+	"en_name": "JCPenney",
+	"id": 3070,
+	"name": "JCPenney"
+}, {
+	"en_name": "Jeff Rowland",
+	"id": 4821,
+	"name": "Jeff Rowland"
+}, {
+	"en_name": "Jensen",
+	"id": 2967,
+	"name": "Jensen"
+}, {
+	"en_name": "Cosmic",
+	"id": 707,
+	"name": "佳彩"
+}, {
+	"en_name": "JSCOM",
+	"id": 2147,
+	"name": "佳创"
+}, {
+	"en_name": "Gadmei",
+	"id": 6,
+	"name": "佳的美"
+}, {
+	"en_name": "KaWa",
+	"id": 702,
+	"name": "嘉华"
+}, {
+	"en_name": "Jiakeshi",
+	"id": 246,
+	"name": "佳可视"
+}, {
+	"en_name": "Jiale",
+	"id": 1142,
+	"name": "佳乐"
+}, {
+	"en_name": "JIALICAI",
+	"id": 712,
+	"name": "佳丽彩"
+}, {
+	"en_name": "ga ma",
+	"id": 921,
+	"name": "伽马"
+}, {
+	"en_name": "Canon",
+	"id": 1857,
+	"name": "佳能"
+}, {
+	"en_name": "Jiangcheng",
+	"id": 1152,
+	"name": "江成"
+}, {
+	"en_name": "General",
+	"id": 126,
+	"name": "将军"
+}, {
+	"en_name": "JmGo",
+	"id": 2802,
+	"name": "坚果"
+}, {
+	"en_name": "JianSheng",
+	"id": 1104,
+	"name": "鉴声"
+}, {
+	"en_name": "Kenwood",
+	"id": 2027,
+	"name": "健伍"
+}, {
+	"en_name": "Classe",
+	"id": 2032,
+	"name": "架势"
+}, {
+	"en_name": "Koxsni",
+	"id": 1782,
+	"name": "嘉视丽"
+}, {
+	"en_name": "Jibai",
+	"id": 1687,
+	"name": "吉柏科技"
+}, {
+	"en_name": "Jichuan",
+	"id": 1182,
+	"name": "吉川"
+}, {
+	"en_name": "Jyeproud",
+	"id": 218,
+	"name": "捷宝"
+}, {
+	"en_name": "GIEC",
+	"id": 1217,
+	"name": "杰科"
+}, {
+	"en_name": "JieSai",
+	"id": 2252,
+	"name": "杰赛科技"
+}, {
+	"en_name": "Justice",
+	"id": 1157,
+	"name": "杰士达"
+}, {
+	"en_name": "Jiling",
+	"id": 16,
+	"name": "机灵"
+}, {
+	"en_name": "XGIMI",
+	"id": 124,
+	"name": "极米"
+}, {
+	"en_name": "Jinbawang",
+	"id": 359,
+	"name": "金霸王"
+}, {
+	"en_name": "Jinbeijing",
+	"id": 1162,
+	"name": "金北京"
+}, {
+	"en_name": "Jinda",
+	"id": 1457,
+	"name": "金达"
+}, {
+	"en_name": "Jinfeng",
+	"id": 3476,
+	"name": "金凤"
+}, {
+	"en_name": "BOE",
+	"id": 597,
+	"name": "京东方"
+}, {
+	"en_name": "Gynco",
+	"id": 64,
+	"name": "金格川谷"
+}, {
+	"en_name": "Routon",
+	"id": 375,
+	"name": "精伦电子"
+}, {
+	"en_name": "Gintai",
+	"id": 26,
+	"name": "敬泰"
+}, {
+	"en_name": "Vito",
+	"id": 58,
+	"name": "景新"
+}, {
+	"en_name": "Elite",
+	"id": 717,
+	"name": "精英"
+}, {
+	"en_name": "Jinling",
+	"id": 216,
+	"name": "金羚"
+}, {
+	"en_name": "JINLIPU",
+	"id": 722,
+	"name": "金利普"
+}, {
+	"en_name": "Jinlong",
+	"id": 215,
+	"name": "金龙"
+}, {
+	"en_name": "Jinlu",
+	"id": 1167,
+	"name": "金鹿"
+}, {
+	"en_name": "Siskin",
+	"id": 732,
+	"name": "金雀"
+}, {
+	"en_name": "JINQUE",
+	"id": 727,
+	"name": "金鹊"
+}, {
+	"en_name": "Jensany",
+	"id": 15,
+	"name": "金三洋"
+}, {
+	"en_name": "jinshikang",
+	"id": 189,
+	"name": "金世康"
+}, {
+	"en_name": "Jinsong",
+	"id": 1172,
+	"name": "金松"
+}, {
+	"en_name": "Jinta",
+	"id": 3478,
+	"name": "金塔"
+}, {
+	"en_name": "KingBright",
+	"id": 226,
+	"name": "今台"
+}, {
+	"en_name": "Kingvon",
+	"id": 82,
+	"name": "金网通"
+}, {
+	"en_name": "Jinxinban",
+	"id": 3479,
+	"name": "金鑫板"
+}, {
+	"en_name": "Jinxing",
+	"id": 558,
+	"name": "金星"
+}, {
+	"en_name": "Jinxing1",
+	"id": 748,
+	"name": "金兴"
+}, {
+	"en_name": "Geeya",
+	"id": 1657,
+	"name": "金亚科技"
+}, {
+	"en_name": "Nintaus",
+	"id": 317,
+	"name": "金正"
+}, {
+	"en_name": "JiPiN",
+	"id": 559,
+	"name": "集品"
+}, {
+	"en_name": "Gibson",
+	"id": 4991,
+	"name": "吉普生"
+}, {
+	"en_name": "Juhehongsheng",
+	"id": 190,
+	"name": "九和宏盛"
+}, {
+	"en_name": "Unionman",
+	"id": 77,
+	"name": "九联"
+}, {
+	"en_name": "DP",
+	"id": 2890,
+	"name": "久量"
+}, {
+	"en_name": "Jiuzhou",
+	"id": 162,
+	"name": "九州"
+}, {
+	"en_name": "JiZhong Electronics",
+	"id": 2247,
+	"name": "极众科技"
+}, {
+	"en_name": "JNC",
+	"id": 2037,
+	"name": "JNC"
+}, {
+	"en_name": "JUHUA",
+	"id": 752,
+	"name": "菊花"
+}, {
+	"en_name": "Juli",
+	"id": 1812,
+	"name": "炬力"
+}, {
+	"en_name": "Juying",
+	"id": 2167,
+	"name": "巨鹰科技"
+}, {
+	"en_name": "Matrix",
+	"id": 2042,
+	"name": "矩阵"
+}, {
+	"en_name": "Kadder",
+	"id": 214,
+	"name": "卡帝亚"
+}, {
+	"en_name": "Kbro",
+	"id": 4344,
+	"name": "凯擘"
+}, {
+	"en_name": "Kaiboer",
+	"id": 1192,
+	"name": "开博尔"
+}, {
+	"en_name": "Karcher",
+	"id": 3185,
+	"name": "凯驰"
+}, {
+	"en_name": "Kaiensi",
+	"id": 2737,
+	"name": "凯恩斯"
+}, {
+	"en_name": "Kaige",
+	"id": 3480,
+	"name": "凯歌"
+}, {
+	"en_name": "Kaihong",
+	"id": 408,
+	"name": "凯红"
+}, {
+	"en_name": "Carrier",
+	"id": 252,
+	"name": "开利"
+}, {
+	"en_name": "Kaisui",
+	"id": 1216,
+	"name": "Kaisui"
+}, {
+	"en_name": "KIXIN",
+	"id": 355,
+	"name": "开心"
+}, {
+	"en_name": "Bestwell",
+	"id": 21,
+	"name": "凯壹"
+}, {
+	"en_name": "Combine",
+	"id": 2762,
+	"name": "康拜恩"
+}, {
+	"en_name": "KTC",
+	"id": 2557,
+	"name": "康冠"
+}, {
+	"en_name": "Kang Hong",
+	"id": 560,
+	"name": "康宏"
+}, {
+	"en_name": "Kanghua",
+	"id": 1218,
+	"name": "Kanghua"
+}, {
+	"en_name": "Konka",
+	"id": 42,
+	"name": "康佳"
+}, {
+	"en_name": "Kang li",
+	"id": 561,
+	"name": "康力"
+}, {
+	"en_name": "Kangli",
+	"id": 1187,
+	"name": "康利"
+}, {
+	"en_name": "Kangte",
+	"id": 2377,
+	"name": "康特集团"
+}, {
+	"en_name": "Kangwei",
+	"id": 563,
+	"name": "康威"
+}, {
+	"en_name": "Comverse",
+	"id": 757,
+	"name": "康维"
+}, {
+	"en_name": "Kangxia",
+	"id": 2480,
+	"name": "康下"
+}, {
+	"en_name": "KANGYI",
+	"id": 762,
+	"name": "康艺"
+}, {
+	"en_name": "CANTV",
+	"id": 4532,
+	"name": "看尚"
+}, {
+	"en_name": "Casarte",
+	"id": 168,
+	"name": "卡萨帝"
+}, {
+	"en_name": "Kawachi",
+	"id": 2132,
+	"name": "卡瓦奇"
+}, {
+	"en_name": "Casio",
+	"id": 1927,
+	"name": "卡西欧"
+}, {
+	"en_name": "KDK",
+	"id": 2827,
+	"name": "KDK"
+}, {
+	"en_name": "Kodak",
+	"id": 2852,
+	"name": "柯达"
+}, {
+	"en_name": "Keer",
+	"id": 1237,
+	"name": "科尔"
+}, {
+	"en_name": "KEF",
+	"id": 4835,
+	"name": "KEF"
+}, {
+	"en_name": "Kehai",
+	"id": 2527,
+	"name": "科海"
+}, {
+	"en_name": "Kelang",
+	"id": 361,
+	"name": "科朗"
+}, {
+	"en_name": "Kelon",
+	"id": 577,
+	"name": "科龙"
+}, {
+	"en_name": "Keming",
+	"id": 1242,
+	"name": "科明"
+}, {
+	"en_name": "Kenuo",
+	"id": 68,
+	"name": "科诺"
+}, {
+	"en_name": "Christie Digital",
+	"id": 243,
+	"name": "科视"
+}, {
+	"en_name": "KLH",
+	"id": 2986,
+	"name": "KLH"
+}, {
+	"en_name": "Klipsch",
+	"id": 4811,
+	"name": "Klipsch"
+}, {
+	"en_name": "KMC",
+	"id": 3041,
+	"name": "KMC"
+}, {
+	"en_name": "Kongque",
+	"id": 3482,
+	"name": "孔雀"
+}, {
+	"en_name": "Koryo",
+	"id": 3531,
+	"name": "Koryo"
+}, {
+	"en_name": "QVOD",
+	"id": 441,
+	"name": "快播"
+}, {
+	"en_name": "KL-Wicep",
+	"id": 14,
+	"name": "快乐微视"
+}, {
+	"en_name": "Coocaa",
+	"id": 3452,
+	"name": "酷开"
+}, {
+	"en_name": "Coolux",
+	"id": 1862,
+	"name": "酷乐视"
+}, {
+	"en_name": "Kulunqi",
+	"id": 36,
+	"name": "库伦旗"
+}, {
+	"en_name": "Kunlun",
+	"id": 38,
+	"name": "昆仑"
+}, {
+	"en_name": "Quantum",
+	"id": 2047,
+	"name": "昆腾"
+}, {
+	"en_name": "KWorld",
+	"id": 3698,
+	"name": "KWorld"
+}, {
+	"en_name": "Lafayette",
+	"id": 69,
+	"name": "拉斐特"
+}, {
+	"en_name": "Rockford Fosgate",
+	"id": 296,
+	"name": "来福"
+}, {
+	"en_name": "Lexicon",
+	"id": 2052,
+	"name": "莱斯康"
+}, {
+	"en_name": "Raybo",
+	"id": 1282,
+	"name": "蓝波"
+}, {
+	"en_name": "Inspur",
+	"id": 72,
+	"name": "浪潮"
+}, {
+	"en_name": "Langge",
+	"id": 1252,
+	"name": "朗歌"
+}, {
+	"en_name": "Langman",
+	"id": 248,
+	"name": "郎曼"
+}, {
+	"en_name": "Creek",
+	"id": 258,
+	"name": "朗泉"
+}, {
+	"en_name": "Langcent",
+	"id": 404,
+	"name": "朗盛泰"
+}, {
+	"en_name": "Runco",
+	"id": 1942,
+	"name": "兰科"
+}, {
+	"en_name": "Blue Times",
+	"id": 90,
+	"name": "蓝色时代"
+}, {
+	"en_name": "Lanxing",
+	"id": 564,
+	"name": "蓝星"
+}, {
+	"en_name": "Lasko",
+	"id": 191,
+	"name": "拉斯科"
+}, {
+	"en_name": "Lebaishi",
+	"id": 1787,
+	"name": "乐百视"
+}, {
+	"en_name": "LeBo",
+	"id": 1292,
+	"name": "乐播"
+}, {
+	"en_name": "Protint",
+	"id": 73,
+	"name": "乐尔"
+}, {
+	"en_name": "Left Coast",
+	"id": 313,
+	"name": "Left Coast"
+}, {
+	"en_name": "Legend-V",
+	"id": 1263,
+	"name": "Legend-V"
+}, {
+	"en_name": "Leguang",
+	"id": 406,
+	"name": "乐光"
+}, {
+	"en_name": "Rowa",
+	"id": 177,
+	"name": "乐华"
+}, {
+	"en_name": "Luxcine",
+	"id": 241,
+	"name": "雷克赛恩"
+}, {
+	"en_name": "Relon",
+	"id": 50,
+	"name": "雷诺"
+}, {
+	"en_name": "Leiting",
+	"id": 2915,
+	"name": "雷霆"
+}, {
+	"en_name": "Newave",
+	"id": 479,
+	"name": "稜威福"
+}, {
+	"en_name": "Lenoxx",
+	"id": 314,
+	"name": "Lenoxx"
+}, {
+	"en_name": "lesheng",
+	"id": 968,
+	"name": "乐笙"
+}, {
+	"en_name": "National",
+	"id": 3238,
+	"name": "乐声"
+}, {
+	"en_name": "LETV",
+	"id": 312,
+	"name": "乐视"
+}, {
+	"en_name": "Rasonic",
+	"id": 116,
+	"name": "乐信"
+}, {
+	"en_name": "LG",
+	"id": 32,
+	"name": "LG 乐金"
+}, {
+	"en_name": "Linn",
+	"id": 2062,
+	"name": "莲"
+}, {
+	"en_name": "Lianchuang",
+	"id": 2607,
+	"name": "联创"
+}, {
+	"en_name": "Liangyu",
+	"id": 1552,
+	"name": "凉宇"
+}, {
+	"en_name": "Digisonic",
+	"id": 24,
+	"name": "联硕"
+}, {
+	"en_name": "linkln.me",
+	"id": 793,
+	"name": "联我"
+}, {
+	"en_name": "Lenovo",
+	"id": 267,
+	"name": "联想"
+}, {
+	"en_name": "Lgm",
+	"id": 565,
+	"name": "丽格美"
+}, {
+	"en_name": "Ricoh",
+	"id": 240,
+	"name": "理光"
+}, {
+	"en_name": "Lihua",
+	"id": 3330,
+	"name": "利华"
+}, {
+	"en_name": "Liesegang",
+	"id": 84,
+	"name": "利景"
+}, {
+	"en_name": "Lijing",
+	"id": 184,
+	"name": "丽精"
+}, {
+	"en_name": "Likaier",
+	"id": 1542,
+	"name": "利凯尔"
+}, {
+	"en_name": "Shumaling",
+	"id": 1250,
+	"name": "灵数码"
+}, {
+	"en_name": "Lingyun",
+	"id": 1792,
+	"name": "灵云"
+}, {
+	"en_name": "Luxman",
+	"id": 4812,
+	"name": "力仕"
+}, {
+	"en_name": "Risun",
+	"id": 2532,
+	"name": "理想"
+}, {
+	"en_name": "Vivitek",
+	"id": 1907,
+	"name": "丽讯"
+}, {
+	"en_name": "Lloytron",
+	"id": 1225,
+	"name": "Lloytron"
+}, {
+	"en_name": "Longjiang",
+	"id": 3484,
+	"name": "龙江"
+}, {
+	"en_name": "Longsheng",
+	"id": 2652,
+	"name": "龙昇"
+}, {
+	"en_name": "RoadRover",
+	"id": 1827,
+	"name": "路畅"
+}, {
+	"en_name": "Logitech",
+	"id": 2067,
+	"name": "罗技"
+}, {
+	"en_name": "Camel",
+	"id": 2642,
+	"name": "骆驼"
+}, {
+	"en_name": "Luxtronex",
+	"id": 394,
+	"name": "Luxtronex"
+}, {
+	"en_name": "Rotel",
+	"id": 2072,
+	"name": "路遥"
+}, {
+	"en_name": "Macintosh",
+	"id": 4863,
+	"name": "Macintosh"
+}, {
+	"en_name": "Magelan",
+	"id": 2337,
+	"name": "马格兰"
+}, {
+	"en_name": "Magnavox",
+	"id": 2955,
+	"name": "Magnavox"
+}, {
+	"en_name": "Microlab",
+	"id": 256,
+	"name": "麦博"
+}, {
+	"en_name": "Maige TV",
+	"id": 91,
+	"name": "麦格电视"
+}, {
+	"en_name": "McIntosh",
+	"id": 2342,
+	"name": "麦景图"
+}, {
+	"en_name": "McQuay",
+	"id": 1247,
+	"name": "麦克维尔"
+}, {
+	"en_name": "Mele",
+	"id": 1222,
+	"name": "迈乐"
+}, {
+	"en_name": "MLJD",
+	"id": 1598,
+	"name": "麦勒"
+}, {
+	"en_name": "Maite",
+	"id": 2077,
+	"name": "迈特"
+}, {
+	"en_name": "Marantz",
+	"id": 652,
+	"name": "马兰士"
+}, {
+	"en_name": "Mali",
+	"id": 213,
+	"name": "马丽"
+}, {
+	"en_name": "Edifier",
+	"id": 4865,
+	"name": "漫步者"
+}, {
+	"en_name": "Mang Guo e Zu",
+	"id": 1689,
+	"name": "芒果e族"
+}, {
+	"en_name": "Mango hi q",
+	"id": 222,
+	"name": "芒果嗨Q"
+}, {
+	"en_name": "Egreat Mango",
+	"id": 449,
+	"name": "芒果乐盒"
+}, {
+	"en_name": "Mantianxing",
+	"id": 3485,
+	"name": "满天星"
+}, {
+	"en_name": "Matsushita",
+	"id": 1226,
+	"name": "Matsushita"
+}, {
+	"en_name": "MBL",
+	"id": 4747,
+	"name": "MBL"
+}, {
+	"en_name": "MBO",
+	"id": 2752,
+	"name": "美博"
+}, {
+	"en_name": "Midea",
+	"id": 182,
+	"name": "美的"
+}, {
+	"en_name": "M-BOX",
+	"id": 454,
+	"name": "美的M-BOX"
+}, {
+	"en_name": "MDI",
+	"id": 249,
+	"name": "美迪"
+}, {
+	"en_name": "Meidian",
+	"id": 1257,
+	"name": "美典"
+}, {
+	"en_name": "Medis",
+	"id": 193,
+	"name": "美蒂思"
+}, {
+	"en_name": "Melody",
+	"id": 272,
+	"name": "美乐"
+}, {
+	"en_name": "Myryad",
+	"id": 2087,
+	"name": "美丽安"
+}, {
+	"en_name": "Manytel",
+	"id": 455,
+	"name": "美利多"
+}, {
+	"en_name": "Meiling",
+	"id": 1262,
+	"name": "美菱"
+}, {
+	"en_name": "Memorex",
+	"id": 2956,
+	"name": "梅莫雷克斯"
+}, {
+	"en_name": "MNATU",
+	"id": 456,
+	"name": "美纳途"
+}, {
+	"en_name": "Jean",
+	"id": 34,
+	"name": "美齐"
+}, {
+	"en_name": "MyGica",
+	"id": 1082,
+	"name": "美如画"
+}, {
+	"en_name": "Mysoto",
+	"id": 1193,
+	"name": "美赛图"
+}, {
+	"en_name": "Meng mei",
+	"id": 568,
+	"name": "梦美"
+}, {
+	"en_name": "Mengmei",
+	"id": 3487,
+	"name": "梦寐"
+}, {
+	"en_name": "Monray",
+	"id": 2347,
+	"name": "蒙瑞"
+}, {
+	"en_name": "MIGU",
+	"id": 331,
+	"name": "咪咕视讯"
+}, {
+	"en_name": "Mikan",
+	"id": 458,
+	"name": "米看"
+}, {
+	"en_name": "MILUX",
+	"id": 194,
+	"name": "MILUX"
+}, {
+	"en_name": "Naim",
+	"id": 2092,
+	"name": "茗"
+}, {
+	"en_name": "BenQ",
+	"id": 767,
+	"name": "明基"
+}, {
+	"en_name": "Mistral",
+	"id": 4989,
+	"name": "名氏风"
+}, {
+	"en_name": "Mingxing",
+	"id": 161,
+	"name": "明星"
+}, {
+	"en_name": "Mingyi",
+	"id": 1267,
+	"name": "名亿"
+}, {
+	"en_name": "MINIX",
+	"id": 2097,
+	"name": "MINIX"
+}, {
+	"en_name": "Misakae",
+	"id": 346,
+	"name": "Misakae"
+}, {
+	"en_name": "Monde Vue",
+	"id": 85,
+	"name": "Monde Vue"
+}, {
+	"en_name": "Mondial",
+	"id": 4848,
+	"name": "Mondial"
+}, {
+	"en_name": "Motorola",
+	"id": 127,
+	"name": "摩托罗拉"
+}, {
+	"en_name": "MOV",
+	"id": 239,
+	"name": "魔影"
+}, {
+	"en_name": "Mudan",
+	"id": 777,
+	"name": "牡丹"
+}, {
+	"en_name": "NAD",
+	"id": 2102,
+	"name": "NAD"
+}, {
+	"en_name": "South Po",
+	"id": 787,
+	"name": "南宝"
+}, {
+	"en_name": "NANSHENG",
+	"id": 792,
+	"name": "南声"
+}, {
+	"en_name": "Nanwei",
+	"id": 1472,
+	"name": "南威"
+}, {
+	"en_name": "Navipod",
+	"id": 315,
+	"name": "Navipod"
+}, {
+	"en_name": "Nextar",
+	"id": 86,
+	"name": "纳西迪"
+}, {
+	"en_name": "Corona",
+	"id": 1012,
+	"name": "内田"
+}, {
+	"en_name": "Nesco",
+	"id": 3279,
+	"name": "Nesco"
+}, {
+	"en_name": "New Sonic",
+	"id": 44,
+	"name": "New Sonic"
+}, {
+	"en_name": "Nikon",
+	"id": 797,
+	"name": "尼康"
+}, {
+	"en_name": "Neus",
+	"id": 360,
+	"name": "纽斯"
+}, {
+	"en_name": "Norcent",
+	"id": 2982,
+	"name": "Norcent"
+}, {
+	"en_name": "NordMende",
+	"id": 3201,
+	"name": "NordMende"
+}, {
+	"en_name": "NPC",
+	"id": 45,
+	"name": "NPC"
+}, {
+	"en_name": "Knoll Systems",
+	"id": 83,
+	"name": "诺尔系统"
+}, {
+	"en_name": "Nokia",
+	"id": 802,
+	"name": "诺基亚"
+}, {
+	"en_name": "Nokade",
+	"id": 2537,
+	"name": "诺凯德"
+}, {
+	"en_name": "Nuvision",
+	"id": 2983,
+	"name": "Nuvision"
+}, {
+	"en_name": "Nuvo",
+	"id": 4828,
+	"name": "Nuvo"
+}, {
+	"en_name": "Odelic",
+	"id": 2523,
+	"name": "Odelic"
+}, {
+	"en_name": "Omnifi",
+	"id": 316,
+	"name": "Omnifi"
+}, {
+	"en_name": "Onida",
+	"id": 2948,
+	"name": "Onida"
+}, {
+	"en_name": "OpenBox",
+	"id": 4194,
+	"name": "OpenBox"
+}, {
+	"en_name": "OPPO",
+	"id": 2107,
+	"name": "OPPO"
+}, {
+	"en_name": "Optimus",
+	"id": 2977,
+	"name": "Optimus"
+}, {
+	"en_name": "Origo",
+	"id": 5029,
+	"name": "Origo"
+}, {
+	"en_name": "Oais",
+	"id": 251,
+	"name": "欧艾斯"
+}, {
+	"en_name": "Oboni",
+	"id": 325,
+	"name": "欧宝丽"
+}, {
+	"en_name": "Audiovox",
+	"id": 812,
+	"name": "欧迪福斯"
+}, {
+	"en_name": "Akura",
+	"id": 3155,
+	"name": "讴歌"
+}, {
+	"en_name": "Oulin",
+	"id": 569,
+	"name": "欧琳"
+}, {
+	"en_name": "ouling",
+	"id": 822,
+	"name": "欧凌"
+}, {
+	"en_name": "Oulu",
+	"id": 254,
+	"name": "欧璐"
+}, {
+	"en_name": "Oumeidiqi",
+	"id": 886,
+	"name": "欧美时代"
+}, {
+	"en_name": "Opaiqi",
+	"id": 399,
+	"name": "欧派"
+}, {
+	"en_name": "Opple",
+	"id": 2895,
+	"name": "欧普"
+}, {
+	"en_name": "Outlaw",
+	"id": 4815,
+	"name": "Outlaw"
+}, {
+	"en_name": "Outlaw Audio",
+	"id": 4852,
+	"name": "Outlaw Audio"
+}, {
+	"en_name": "Airwell",
+	"id": 4987,
+	"name": "欧威尔"
+}, {
+	"en_name": "Premier",
+	"id": 1912,
+	"name": "拍得丽"
+}, {
+	"en_name": "Pangoo",
+	"id": 48,
+	"name": "盘古"
+}, {
+	"en_name": "Panodic",
+	"id": 87,
+	"name": "帕诺迪"
+}, {
+	"en_name": "Paramax",
+	"id": 4837,
+	"name": "Paramax"
+}, {
+	"en_name": "PBI",
+	"id": 132,
+	"name": "PBI"
+}, {
+	"en_name": "PeachTree",
+	"id": 4816,
+	"name": "PeachTree"
+}, {
+	"en_name": "Peng Cheng",
+	"id": 49,
+	"name": "鹏程"
+}, {
+	"en_name": "Primare",
+	"id": 2112,
+	"name": "翩美"
+}, {
+	"en_name": "Planar",
+	"id": 1917,
+	"name": "平达"
+}, {
+	"en_name": "Apple",
+	"id": 2577,
+	"name": "苹果"
+}, {
+	"en_name": "Pinoh",
+	"id": 211,
+	"name": "品诺"
+}, {
+	"en_name": "Pinshang",
+	"id": 4944,
+	"name": "品尚"
+}, {
+	"en_name": "Pisen",
+	"id": 591,
+	"name": "品胜"
+}, {
+	"en_name": "Peasun",
+	"id": 2461,
+	"name": "品索"
+}, {
+	"en_name": "PlusVision",
+	"id": 238,
+	"name": "PlusVision"
+}, {
+	"en_name": "Polestar",
+	"id": 1228,
+	"name": "Polestar"
+}, {
+	"en_name": "Polk Audio",
+	"id": 4818,
+	"name": "Polk Audio"
+}, {
+	"en_name": "Porland",
+	"id": 1229,
+	"name": "Porland"
+}, {
+	"en_name": "PPBOX",
+	"id": 1797,
+	"name": "PPBOX"
+}, {
+	"en_name": "PPTV",
+	"id": 2862,
+	"name": "PPTV"
+}, {
+	"en_name": "Praxis",
+	"id": 1230,
+	"name": "Praxis"
+}, {
+	"en_name": "Price Club",
+	"id": 966,
+	"name": "Price Club"
+}, {
+	"en_name": "Projectavision",
+	"id": 236,
+	"name": "Projectavision"
+}, {
+	"en_name": "Proscan",
+	"id": 2122,
+	"name": "Proscan"
+}, {
+	"en_name": "PS Audio",
+	"id": 4710,
+	"name": "PS Audio"
+}, {
+	"en_name": "Plus",
+	"id": 1922,
+	"name": "普乐士"
+}, {
+	"en_name": "Pulierde",
+	"id": 2382,
+	"name": "普利尔德"
+}, {
+	"en_name": "Proton",
+	"id": 827,
+	"name": "普腾"
+}, {
+	"en_name": "Qiateng",
+	"id": 2900,
+	"name": "恰腾"
+}, {
+	"en_name": "Qidi",
+	"id": 1277,
+	"name": "奇迪"
+}, {
+	"en_name": "Qihua",
+	"id": 210,
+	"name": "启华"
+}, {
+	"en_name": "Krell",
+	"id": 2137,
+	"name": "奇力"
+}, {
+	"en_name": "CHIMEI",
+	"id": 832,
+	"name": "奇美"
+}, {
+	"en_name": "Qingdao",
+	"id": 570,
+	"name": "青岛"
+}, {
+	"en_name": "Unismaison",
+	"id": 230,
+	"name": "清华美迅"
+}, {
+	"en_name": "THTF",
+	"id": 292,
+	"name": "清华同方"
+}, {
+	"en_name": "UNIS",
+	"id": 1005,
+	"name": "清华紫光"
+}, {
+	"en_name": "Monivision",
+	"id": 41,
+	"name": "青云电器"
+}, {
+	"en_name": "Albatron",
+	"id": 1087,
+	"name": "青云科技"
+}, {
+	"en_name": "QiSheng",
+	"id": 1677,
+	"name": "奇声"
+}, {
+	"en_name": "GE",
+	"id": 553,
+	"name": "奇异"
+}, {
+	"en_name": "Qmax",
+	"id": 4175,
+	"name": "Qmax"
+}, {
+	"en_name": "Quasar",
+	"id": 1932,
+	"name": "Quasar"
+}, {
+	"en_name": "RCA",
+	"id": 2142,
+	"name": "RCA"
+}, {
+	"en_name": "Realistic",
+	"id": 2996,
+	"name": "Realistic"
+}, {
+	"en_name": "Regent",
+	"id": 4838,
+	"name": "Regent"
+}, {
+	"en_name": "Mermaid",
+	"id": 39,
+	"name": "人鱼数码"
+}, {
+	"en_name": "Japan",
+	"id": 195,
+	"name": "日本"
+}, {
+	"en_name": "Ricai",
+	"id": 1337,
+	"name": "日彩"
+}, {
+	"en_name": "NEC",
+	"id": 662,
+	"name": "日电"
+}, {
+	"en_name": "Nikko2",
+	"id": 571,
+	"name": "日高"
+}, {
+	"en_name": "Nikko",
+	"id": 1562,
+	"name": "日光"
+}, {
+	"en_name": "Rihong",
+	"id": 573,
+	"name": "日红"
+}, {
+	"en_name": "Rijiang",
+	"id": 1342,
+	"name": "日江"
+}, {
+	"en_name": "Hitachi",
+	"id": 207,
+	"name": "日立"
+}, {
+	"en_name": "Ripai",
+	"id": 574,
+	"name": "日派"
+}, {
+	"en_name": "Risuo",
+	"id": 169,
+	"name": "日索"
+}, {
+	"en_name": "Sunwing",
+	"id": 1435,
+	"name": "日翼"
+}, {
+	"en_name": "Rizhi",
+	"id": 3490,
+	"name": "日芝"
+}, {
+	"en_name": "Roku",
+	"id": 4814,
+	"name": "Roku"
+}, {
+	"en_name": "Rongsheng",
+	"id": 2687,
+	"name": "容声"
+}, {
+	"en_name": "Royalsta",
+	"id": 2617,
+	"name": "荣事达"
+}, {
+	"en_name": "ROV",
+	"id": 358,
+	"name": "ROV王牌"
+}, {
+	"en_name": "Royalstar",
+	"id": 3453,
+	"name": "Royalstar"
+}, {
+	"en_name": "RuiCheng",
+	"id": 1937,
+	"name": "瑞诚"
+}, {
+	"en_name": "DMX",
+	"id": 1009,
+	"name": "锐高"
+}, {
+	"en_name": "Rigal",
+	"id": 631,
+	"name": "瑞格尔"
+}, {
+	"en_name": "RealPlay",
+	"id": 93,
+	"name": "瑞珀"
+}, {
+	"en_name": "RadioShack",
+	"id": 837,
+	"name": "睿侠"
+}, {
+	"en_name": "Vizio",
+	"id": 842,
+	"name": "瑞轩"
+}, {
+	"en_name": "Rundboc",
+	"id": 799,
+	"name": "润德博创科技"
+}, {
+	"en_name": "Russound",
+	"id": 4854,
+	"name": "Russound"
+}, {
+	"en_name": "RUYI",
+	"id": 847,
+	"name": "如意"
+}, {
+	"en_name": "Cybertron",
+	"id": 1010,
+	"name": "赛博"
+}, {
+	"en_name": "Saige",
+	"id": 51,
+	"name": "赛格"
+}, {
+	"en_name": "Seye",
+	"id": 3493,
+	"name": "塞河"
+}, {
+	"en_name": "Saikeda",
+	"id": 2807,
+	"name": "赛科达"
+}, {
+	"en_name": "Shinee",
+	"id": 2627,
+	"name": "赛亿"
+}, {
+	"en_name": "Sagem",
+	"id": 2987,
+	"name": "萨基姆"
+}, {
+	"en_name": "Sampux",
+	"id": 2692,
+	"name": "桑普"
+}, {
+	"en_name": "Universal",
+	"id": 3009,
+	"name": "三环宇"
+}, {
+	"en_name": "Sanjian2",
+	"id": 576,
+	"name": "三间"
+}, {
+	"en_name": "Sanjian",
+	"id": 3491,
+	"name": "三键"
+}, {
+	"en_name": "Sanken",
+	"id": 2152,
+	"name": "三垦"
+}, {
+	"en_name": "Mitsubishi",
+	"id": 107,
+	"name": "三菱"
+}, {
+	"en_name": "Sanling",
+	"id": 3492,
+	"name": "三灵"
+}, {
+	"en_name": "Mitsubishi Electric",
+	"id": 2782,
+	"name": "三菱电机"
+}, {
+	"en_name": "Lancer",
+	"id": 2127,
+	"name": "三菱蓝瑟"
+}, {
+	"en_name": "Mitsubishi Heavy Industries",
+	"id": 2777,
+	"name": "三菱重工"
+}, {
+	"en_name": "Sanore",
+	"id": 2516,
+	"name": "Sanore"
+}, {
+	"en_name": "Sanpu",
+	"id": 636,
+	"name": "三浦"
+}, {
+	"en_name": "San sui",
+	"id": 578,
+	"name": "三穗"
+}, {
+	"en_name": "Mitsumaru",
+	"id": 40,
+	"name": "三丸"
+}, {
+	"en_name": "Samsung",
+	"id": 12,
+	"name": "三星"
+}, {
+	"en_name": "Sanyo",
+	"id": 232,
+	"name": "三洋"
+}, {
+	"en_name": "SANYUAN",
+	"id": 857,
+	"name": "三元"
+}, {
+	"en_name": "Sanzuan",
+	"id": 1347,
+	"name": "三钻"
+}, {
+	"en_name": "Satforce",
+	"id": 74,
+	"name": "Satforce"
+}, {
+	"en_name": "Scimitsu",
+	"id": 1231,
+	"name": "Scimitsu"
+}, {
+	"en_name": "Scott",
+	"id": 2978,
+	"name": "Scott"
+}, {
+	"en_name": "Screen Innovations",
+	"id": 235,
+	"name": "Screen Innovations"
+}, {
+	"en_name": "Sea Star",
+	"id": 75,
+	"name": "Sea Star"
+}, {
+	"en_name": "Semivox",
+	"id": 1233,
+	"name": "Semivox"
+}, {
+	"en_name": "Sunburg",
+	"id": 1587,
+	"name": "森宝"
+}, {
+	"en_name": "SET",
+	"id": 1234,
+	"name": "SET"
+}, {
+	"en_name": "SGK",
+	"id": 2162,
+	"name": "SGK"
+}, {
+	"en_name": "Prima",
+	"id": 332,
+	"name": "厦华"
+}, {
+	"en_name": "Camellia",
+	"id": 862,
+	"name": "山茶"
+}, {
+	"en_name": "SVA",
+	"id": 217,
+	"name": "上广电"
+}, {
+	"en_name": "Shanghai",
+	"id": 3495,
+	"name": "上海"
+}, {
+	"en_name": "Dvigivision",
+	"id": 2572,
+	"name": "上海全景"
+}, {
+	"en_name": "Shining",
+	"id": 1377,
+	"name": "上海双菱"
+}, {
+	"en_name": "S-Ling",
+	"id": 1357,
+	"name": "上菱"
+}, {
+	"en_name": "Shanhu",
+	"id": 196,
+	"name": "山湖"
+}, {
+	"en_name": "Sansui",
+	"id": 867,
+	"name": "山水"
+}, {
+	"en_name": "Shanxing",
+	"id": 1532,
+	"name": "山星"
+}, {
+	"en_name": "SHAOFENG",
+	"id": 872,
+	"name": "韶峰"
+}, {
+	"en_name": "Shenbao",
+	"id": 1362,
+	"name": "绅宝"
+}, {
+	"en_name": "Shencai",
+	"id": 877,
+	"name": "神彩"
+}, {
+	"en_name": "Sampo",
+	"id": 3050,
+	"name": "声宝"
+}, {
+	"en_name": "SUNGPO",
+	"id": 297,
+	"name": "声宝夏普"
+}, {
+	"en_name": "Shengfeng",
+	"id": 1367,
+	"name": "胜风"
+}, {
+	"en_name": "Anthem",
+	"id": 4707,
+	"name": "圣歌"
+}, {
+	"en_name": "SONIQ",
+	"id": 302,
+	"name": "声光"
+}, {
+	"en_name": "Sheng li",
+	"id": 579,
+	"name": "生力"
+}, {
+	"en_name": "JVC",
+	"id": 1007,
+	"name": "胜利"
+}, {
+	"en_name": "SOOALL",
+	"id": 459,
+	"name": "声物"
+}, {
+	"en_name": "Shenhua",
+	"id": 2732,
+	"name": "申花"
+}, {
+	"en_name": "Shenyang",
+	"id": 2817,
+	"name": "神阳"
+}, {
+	"en_name": "Shenzhou",
+	"id": 1147,
+	"name": "神州"
+}, {
+	"en_name": "SCX",
+	"id": 460,
+	"name": "实创兴"
+}, {
+	"en_name": "Star",
+	"id": 3636,
+	"name": "实达"
+}, {
+	"en_name": "Shifeng",
+	"id": 2697,
+	"name": "时丰"
+}, {
+	"en_name": "Century",
+	"id": 4264,
+	"name": "世纪"
+}, {
+	"en_name": "Cen-Grand",
+	"id": 2172,
+	"name": "世纪格雷"
+}, {
+	"en_name": "Seleco",
+	"id": 1947,
+	"name": "视丽"
+}, {
+	"en_name": "Sherwood",
+	"id": 2177,
+	"name": "狮龙"
+}, {
+	"en_name": "A.O.Smith",
+	"id": 208,
+	"name": "史密斯"
+}, {
+	"en_name": "Cineversum",
+	"id": 1892,
+	"name": "诗威"
+}, {
+	"en_name": "VideoStrong",
+	"id": 1738,
+	"name": "视壮"
+}, {
+	"en_name": "Sowa",
+	"id": 4290,
+	"name": "首华"
+}, {
+	"en_name": "Shuaibao",
+	"id": 1547,
+	"name": "帅宝"
+}, {
+	"en_name": "Shuaikang",
+	"id": 1372,
+	"name": "帅康"
+}, {
+	"en_name": "Deer",
+	"id": 122,
+	"name": "双鹿"
+}, {
+	"en_name": "Narcissus",
+	"id": 2513,
+	"name": "水仙"
+}, {
+	"en_name": "Blossoms",
+	"id": 1477,
+	"name": "数浪"
+}, {
+	"en_name": "Sumavison",
+	"id": 2242,
+	"name": "数码视讯"
+}, {
+	"en_name": "d sky",
+	"id": 2587,
+	"name": "数码天空"
+}, {
+	"en_name": "Sunfar",
+	"id": 209,
+	"name": "顺发"
+}, {
+	"en_name": "Soyea",
+	"id": 112,
+	"name": "数源"
+}, {
+	"en_name": "Star-xinhui",
+	"id": 2792,
+	"name": "斯达鑫辉"
+}, {
+	"en_name": "Sim Audio",
+	"id": 4833,
+	"name": "Sim Audio"
+}, {
+	"en_name": "SIM2",
+	"id": 234,
+	"name": "SIM2"
+}, {
+	"en_name": "Sima",
+	"id": 2357,
+	"name": "Sima"
+}, {
+	"en_name": "Simaudio",
+	"id": 303,
+	"name": "Simaudio"
+}, {
+	"en_name": "Sirius",
+	"id": 4826,
+	"name": "Sirius"
+}, {
+	"en_name": "Siyu",
+	"id": 2702,
+	"name": "丝雨"
+}, {
+	"en_name": "SKG",
+	"id": 166,
+	"name": "SKG"
+}, {
+	"en_name": "SKM",
+	"id": 2405,
+	"name": "SKM"
+}, {
+	"en_name": "Slim Devices",
+	"id": 318,
+	"name": "Slim Devices"
+}, {
+	"en_name": "Sling Media",
+	"id": 5012,
+	"name": "Sling Media"
+}, {
+	"en_name": "Sonance",
+	"id": 4829,
+	"name": "Sonance"
+}, {
+	"en_name": "Evergreen",
+	"id": 1027,
+	"name": "松柏"
+}, {
+	"en_name": "Paohanic",
+	"id": 2528,
+	"name": "松川"
+}, {
+	"en_name": "Pascmio",
+	"id": 1032,
+	"name": "松电"
+}, {
+	"en_name": "Matsui",
+	"id": 1037,
+	"name": "松井"
+}, {
+	"en_name": "Matsunichi",
+	"id": 2182,
+	"name": "松日"
+}, {
+	"en_name": "Panasonic",
+	"id": 202,
+	"name": "松下"
+}, {
+	"en_name": "Sound Stream",
+	"id": 4847,
+	"name": "Sound Stream"
+}, {
+	"en_name": "Soundesign",
+	"id": 4813,
+	"name": "Soundesign"
+}, {
+	"en_name": "Spectricon",
+	"id": 1235,
+	"name": "Spectricon"
+}, {
+	"en_name": "SSI",
+	"id": 4846,
+	"name": "SSI"
+}, {
+	"en_name": "FlintStone",
+	"id": 1227,
+	"name": "燧石"
+}, {
+	"en_name": "Sunfire",
+	"id": 4832,
+	"name": "Sunfire"
+}, {
+	"en_name": "Soaiy",
+	"id": 10,
+	"name": "索爱"
+}, {
+	"en_name": "Sogood",
+	"id": 53,
+	"name": "索佳"
+}, {
+	"en_name": "Sony",
+	"id": 47,
+	"name": "索尼"
+}, {
+	"en_name": "Soyea",
+	"id": 2512,
+	"name": "索伊"
+}, {
+	"en_name": "Suoying",
+	"id": 580,
+	"name": "索映"
+}, {
+	"en_name": "Tai Wah",
+	"id": 1236,
+	"name": "Tai Wah"
+}, {
+	"en_name": "Togic",
+	"id": 2520,
+	"name": "泰捷"
+}, {
+	"en_name": "Telamon",
+	"id": 386,
+	"name": "泰拉蒙"
+}, {
+	"en_name": "Tai Lin",
+	"id": 55,
+	"name": "台林"
+}, {
+	"en_name": "TERA",
+	"id": 198,
+	"name": "泰瑞"
+}, {
+	"en_name": "Taishan",
+	"id": 581,
+	"name": "台山"
+}, {
+	"en_name": "Tascam",
+	"id": 2187,
+	"name": "泰斯康姆"
+}, {
+	"en_name": "Taiya",
+	"id": 176,
+	"name": "太亚"
+}, {
+	"en_name": "Taiyin",
+	"id": 1196,
+	"name": "太尹"
+}, {
+	"en_name": "Takizumi",
+	"id": 2518,
+	"name": "Takizumi"
+}, {
+	"en_name": "Tangdou",
+	"id": 1802,
+	"name": "糖豆"
+}, {
+	"en_name": "Thomson",
+	"id": 882,
+	"name": "汤姆逊"
+}, {
+	"en_name": "TCL",
+	"id": 27,
+	"name": "TCL"
+}, {
+	"en_name": "TCRC",
+	"id": 2552,
+	"name": "TCRC"
+}, {
+	"en_name": "Technics",
+	"id": 2192,
+	"name": "Technics"
+}, {
+	"en_name": "Telex",
+	"id": 253,
+	"name": "Telex"
+}, {
+	"en_name": "Trane",
+	"id": 1682,
+	"name": "特灵"
+}, {
+	"en_name": "Tandberg",
+	"id": 583,
+	"name": "腾博"
+}, {
+	"en_name": "Tesco",
+	"id": 2197,
+	"name": "特易购"
+}, {
+	"en_name": "DVN",
+	"id": 152,
+	"name": "天柏"
+}, {
+	"en_name": "Swan",
+	"id": 892,
+	"name": "天鹅"
+}, {
+	"en_name": "Tiangengban",
+	"id": 897,
+	"name": "天庚板"
+}, {
+	"en_name": "TICA",
+	"id": 804,
+	"name": "天加"
+}, {
+	"en_name": "Tianjin",
+	"id": 1382,
+	"name": "天津"
+}, {
+	"en_name": "Tiankeban",
+	"id": 902,
+	"name": "天科板"
+}, {
+	"en_name": "Denon",
+	"id": 907,
+	"name": "天龙"
+}, {
+	"en_name": "Tianma",
+	"id": 199,
+	"name": "天马"
+}, {
+	"en_name": "Tmbox",
+	"id": 237,
+	"name": "天猫魔盒"
+}, {
+	"en_name": "10moons",
+	"id": 1077,
+	"name": "天敏"
+}, {
+	"en_name": "TSHiFi",
+	"id": 2875,
+	"name": "天尚"
+}, {
+	"en_name": "Team Work",
+	"id": 794,
+	"name": "天蜗"
+}, {
+	"en_name": "ToneWnner",
+	"id": 304,
+	"name": "天逸"
+}, {
+	"en_name": "Tianyuan",
+	"id": 1387,
+	"name": "天元"
+}, {
+	"en_name": "Audio Technica",
+	"id": 4842,
+	"name": "铁三角"
+}, {
+	"en_name": "Tivoli",
+	"id": 4858,
+	"name": "Tivoli"
+}, {
+	"en_name": "Tong guang",
+	"id": 584,
+	"name": "同光"
+}, {
+	"en_name": "Tongguang",
+	"id": 3497,
+	"name": "通广"
+}, {
+	"en_name": "Tonghui",
+	"id": 2547,
+	"name": "同辉电子"
+}, {
+	"en_name": "Leader",
+	"id": 287,
+	"name": "统帅"
+}, {
+	"en_name": "Tongyi",
+	"id": 1397,
+	"name": "同益"
+}, {
+	"en_name": "G.E.",
+	"id": 647,
+	"name": "通用"
+}, {
+	"en_name": "Coship",
+	"id": 172,
+	"name": "同洲"
+}, {
+	"en_name": "Topconpro",
+	"id": 912,
+	"name": "TOPCONPro"
+}, {
+	"en_name": "Toyomi",
+	"id": 200,
+	"name": "Toyomi"
+}, {
+	"en_name": "TPmini",
+	"id": 409,
+	"name": "TPmini"
+}, {
+	"en_name": "Noontec",
+	"id": 2202,
+	"name": "图美"
+}, {
+	"en_name": "Tumetimes",
+	"id": 1957,
+	"name": "图美时代"
+}, {
+	"en_name": "Tuopi",
+	"id": 2207,
+	"name": "拓步"
+}, {
+	"en_name": "TOPSAT",
+	"id": 1772,
+	"name": "拓普赛特"
+}, {
+	"en_name": "TviX",
+	"id": 2212,
+	"name": "TviX"
+}, {
+	"en_name": "UT STARCOM",
+	"id": 1022,
+	"name": "UT斯达康"
+}, {
+	"en_name": "Vdigi",
+	"id": 4298,
+	"name": "Vdigi"
+}, {
+	"en_name": "Venture",
+	"id": 4850,
+	"name": "Venture"
+}, {
+	"en_name": "Victor",
+	"id": 255,
+	"name": "Victor"
+}, {
+	"en_name": "Videologic",
+	"id": 4831,
+	"name": "Videologic"
+}, {
+	"en_name": "Vivo",
+	"id": 914,
+	"name": "Vivo"
+}, {
+	"en_name": "Vtrek",
+	"id": 76,
+	"name": "Vtrek"
+}, {
+	"en_name": "Hua ri",
+	"id": 585,
+	"name": "瓦里"
+}, {
+	"en_name": "Wanbao",
+	"id": 1402,
+	"name": "万宝"
+}, {
+	"en_name": "Netgear",
+	"id": 2082,
+	"name": "网件"
+}, {
+	"en_name": "Prince",
+	"id": 174,
+	"name": "王子"
+}, {
+	"en_name": "Macro",
+	"id": 2767,
+	"name": "万家乐"
+}, {
+	"en_name": "Maxtron",
+	"id": 2222,
+	"name": "万朗"
+}, {
+	"en_name": "Malata",
+	"id": 917,
+	"name": "万利达"
+}, {
+	"en_name": "Perfect",
+	"id": 388,
+	"name": "完美"
+}, {
+	"en_name": "Maxe",
+	"id": 146,
+	"name": "万士益"
+}, {
+	"en_name": "Wantu",
+	"id": 596,
+	"name": "万途"
+}, {
+	"en_name": "Wanyan",
+	"id": 1254,
+	"name": "万燕"
+}, {
+	"en_name": "Wards",
+	"id": 3025,
+	"name": "Wards"
+}, {
+	"en_name": "Weide",
+	"id": 2722,
+	"name": "维德"
+}, {
+	"en_name": "Vidikron",
+	"id": 3605,
+	"name": "威得光"
+}, {
+	"en_name": "Vifa",
+	"id": 1253,
+	"name": "威发"
+}, {
+	"en_name": "Proview",
+	"id": 937,
+	"name": "唯冠"
+}, {
+	"en_name": "Wihome",
+	"id": 593,
+	"name": "伟皓"
+}, {
+	"en_name": "Whaley",
+	"id": 611,
+	"name": "微鲸"
+}, {
+	"en_name": "Wellav",
+	"id": 2597,
+	"name": "伟乐科技"
+}, {
+	"en_name": "Welly",
+	"id": 206,
+	"name": "威利"
+}, {
+	"en_name": "Weili",
+	"id": 1667,
+	"name": "威力"
+}, {
+	"en_name": "Qnap",
+	"id": 2227,
+	"name": "威联通"
+}, {
+	"en_name": "Velodyne",
+	"id": 4830,
+	"name": "威力登"
+}, {
+	"en_name": "Viagra Brand",
+	"id": 586,
+	"name": "威牌"
+}, {
+	"en_name": "Weiteli",
+	"id": 1407,
+	"name": "威特利"
+}, {
+	"en_name": "WoBo",
+	"id": 1287,
+	"name": "我播"
+}, {
+	"en_name": "Voton",
+	"id": 173,
+	"name": "沃顿"
+}, {
+	"en_name": "Walton",
+	"id": 3568,
+	"name": "沃尔顿"
+}, {
+	"en_name": "Wharfedale",
+	"id": 3389,
+	"name": "沃夫德尔"
+}, {
+	"en_name": "Wolf Vision",
+	"id": 231,
+	"name": "Wolf Vision"
+}, {
+	"en_name": "Watson",
+	"id": 3304,
+	"name": "沃特森"
+}, {
+	"en_name": "Wufeng",
+	"id": 1412,
+	"name": "雾峰"
+}, {
+	"en_name": "WUQ",
+	"id": 2217,
+	"name": "五强"
+}, {
+	"en_name": "Xantech",
+	"id": 4853,
+	"name": "Xantech"
+}, {
+	"en_name": "Hyundai",
+	"id": 922,
+	"name": "现代"
+}, {
+	"en_name": "Pioneer",
+	"id": 62,
+	"name": "先锋"
+}, {
+	"en_name": "Xiangyu",
+	"id": 588,
+	"name": "翔宇"
+}, {
+	"en_name": "SAST",
+	"id": 927,
+	"name": "先科"
+}, {
+	"en_name": "Xiankexianmingdi",
+	"id": 1069,
+	"name": "先科先明迪"
+}, {
+	"en_name": "Xianpai",
+	"id": 1258,
+	"name": "先派"
+}, {
+	"en_name": "Subor",
+	"id": 2910,
+	"name": "小霸王"
+}, {
+	"en_name": "Xiaomi",
+	"id": 257,
+	"name": "小米"
+}, {
+	"en_name": "Xiaomifeng",
+	"id": 2362,
+	"name": "小蜜蜂"
+}, {
+	"en_name": "Koizumi",
+	"id": 1070,
+	"name": "小泉"
+}, {
+	"en_name": "Littleswan",
+	"id": 2657,
+	"name": "小天鹅"
+}, {
+	"en_name": "Xiaoxiang",
+	"id": 201,
+	"name": "小象"
+}, {
+	"en_name": "Xiaoxingxing",
+	"id": 2662,
+	"name": "小行星"
+}, {
+	"en_name": "Littleduck",
+	"id": 1422,
+	"name": "小鸭"
+}, {
+	"en_name": "Sharp",
+	"id": 57,
+	"name": "夏普"
+}, {
+	"en_name": "SAHPR",
+	"id": 366,
+	"name": "夏浦"
+}, {
+	"en_name": "Amoi",
+	"id": 932,
+	"name": "夏新"
+}, {
+	"en_name": "Xiayang",
+	"id": 1427,
+	"name": "夏洋"
+}, {
+	"en_name": "Western Digital",
+	"id": 2232,
+	"name": "西部数据"
+}, {
+	"en_name": "Sears",
+	"id": 2352,
+	"name": "西尔斯"
+}, {
+	"en_name": "Sylvania",
+	"id": 942,
+	"name": "西凡尼亚"
+}, {
+	"en_name": "Sigma",
+	"id": 159,
+	"name": "西格玛"
+}, {
+	"en_name": "Xihu",
+	"id": 947,
+	"name": "西湖"
+}, {
+	"en_name": "Seagate",
+	"id": 2257,
+	"name": "希捷"
+}, {
+	"en_name": "Serene",
+	"id": 1432,
+	"name": "西冷"
+}, {
+	"en_name": "Siemens",
+	"id": 952,
+	"name": "西门子"
+}, {
+	"en_name": "Newland",
+	"id": 67,
+	"name": "新大陆"
+}, {
+	"en_name": "Xinde",
+	"id": 2707,
+	"name": "新的"
+}, {
+	"en_name": "Frestec",
+	"id": 1437,
+	"name": "新飞"
+}, {
+	"en_name": "Xinfu",
+	"id": 589,
+	"name": "新抚"
+}, {
+	"en_name": "Xingfu",
+	"id": 957,
+	"name": "幸福"
+}, {
+	"en_name": "Xinghai",
+	"id": 962,
+	"name": "星海"
+}, {
+	"en_name": "Xinghe",
+	"id": 1537,
+	"name": "星河"
+}, {
+	"en_name": "Xinhe",
+	"id": 205,
+	"name": "欣禾"
+}, {
+	"en_name": "Xinhuabao",
+	"id": 160,
+	"name": "新华宝"
+}, {
+	"en_name": "Shinco",
+	"id": 1577,
+	"name": "新科"
+}, {
+	"en_name": "Xinle",
+	"id": 165,
+	"name": "新乐"
+}, {
+	"en_name": "Sinro",
+	"id": 158,
+	"name": "新菱"
+}, {
+	"en_name": "Xinmeng",
+	"id": 967,
+	"name": "鑫萌"
+}, {
+	"en_name": "Xinmengban",
+	"id": 3500,
+	"name": "鑫萌板"
+}, {
+	"en_name": "Xinrisong",
+	"id": 972,
+	"name": "新日松"
+}, {
+	"en_name": "Xinshidai",
+	"id": 1201,
+	"name": "新视代"
+}, {
+	"en_name": "New Star",
+	"id": 1042,
+	"name": "新思达"
+}, {
+	"en_name": "Golden Eagle",
+	"id": 326,
+	"name": "鑫鹰"
+}, {
+	"en_name": "Xinyingyan",
+	"id": 171,
+	"name": "新迎燕"
+}, {
+	"en_name": "Broths",
+	"id": 164,
+	"name": "兄弟"
+}, {
+	"en_name": "Panda",
+	"id": 167,
+	"name": "熊猫"
+}, {
+	"en_name": "ACL",
+	"id": 1692,
+	"name": "喜事来"
+}, {
+	"en_name": "Westinghouse",
+	"id": 1047,
+	"name": "西屋"
+}, {
+	"en_name": "XM",
+	"id": 4851,
+	"name": "XM"
+}, {
+	"en_name": "Snowflk",
+	"id": 135,
+	"name": "雪花"
+}, {
+	"en_name": "Xuelian",
+	"id": 1052,
+	"name": "雪莲"
+}, {
+	"en_name": "Schueco",
+	"id": 2525,
+	"name": "旭格"
+}, {
+	"en_name": "Sunview",
+	"id": 54,
+	"name": "旭璟"
+}, {
+	"en_name": "Yadi",
+	"id": 308,
+	"name": "雅迪"
+}, {
+	"en_name": "Yadu",
+	"id": 203,
+	"name": "亚都"
+}, {
+	"en_name": "Akai",
+	"id": 977,
+	"name": "雅佳"
+}, {
+	"en_name": "Arcam",
+	"id": 2267,
+	"name": "雅俊"
+}, {
+	"en_name": "Yamaha",
+	"id": 1057,
+	"name": "雅马哈"
+}, {
+	"en_name": "Yamazen",
+	"id": 2519,
+	"name": "Yamazen"
+}, {
+	"en_name": "Amos",
+	"id": 2637,
+	"name": "亚摩斯"
+}, {
+	"en_name": "Sunny",
+	"id": 3139,
+	"name": "阳光"
+}, {
+	"en_name": "Yair",
+	"id": 212,
+	"name": "扬子"
+}, {
+	"en_name": "Yangzi",
+	"id": 2832,
+	"name": "杨子"
+}, {
+	"en_name": "Yaoma",
+	"id": 1442,
+	"name": "耀马"
+}, {
+	"en_name": "ACTO",
+	"id": 1962,
+	"name": "雅图"
+}, {
+	"en_name": "Richvast",
+	"id": 330,
+	"name": "亿达洲"
+}, {
+	"en_name": "IDER",
+	"id": 1822,
+	"name": "忆典"
+}, {
+	"en_name": "Mobile Box",
+	"id": 2905,
+	"name": "移动魔百盒"
+}, {
+	"en_name": "Egreat",
+	"id": 1492,
+	"name": "亿格瑞"
+}, {
+	"en_name": "Eaget",
+	"id": 370,
+	"name": "忆捷"
+}, {
+	"en_name": "Elco",
+	"id": 1627,
+	"name": "宜科"
+}, {
+	"en_name": "Electrolux",
+	"id": 137,
+	"name": "伊莱克斯"
+}, {
+	"en_name": "Electra",
+	"id": 1632,
+	"name": "以莱特"
+}, {
+	"en_name": "Envision",
+	"id": 3080,
+	"name": "易美逊"
+}, {
+	"en_name": "Inphic",
+	"id": 1177,
+	"name": "英菲克"
+}, {
+	"en_name": "Meridian",
+	"id": 2272,
+	"name": "英国之宝"
+}, {
+	"en_name": "Sakura",
+	"id": 204,
+	"name": "樱花"
+}, {
+	"en_name": "Cheblo",
+	"id": 149,
+	"name": "樱花电器"
+}, {
+	"en_name": "Yingji",
+	"id": 324,
+	"name": "英集"
+}, {
+	"en_name": "Inkel",
+	"id": 33,
+	"name": "英可"
+}, {
+	"en_name": "Ineng",
+	"id": 403,
+	"name": "影能"
+}, {
+	"en_name": "Insignia",
+	"id": 2277,
+	"name": "影雅"
+}, {
+	"en_name": "Inyan",
+	"id": 1137,
+	"name": "迎燕"
+}, {
+	"en_name": "Yinhe",
+	"id": 362,
+	"name": "银河"
+}, {
+	"en_name": "Is",
+	"id": 2742,
+	"name": "易视宝"
+}, {
+	"en_name": "Ysten",
+	"id": 2787,
+	"name": "易视腾"
+}, {
+	"en_name": "Esonic",
+	"id": 4351,
+	"name": "亿硕"
+}, {
+	"en_name": "Yixin",
+	"id": 389,
+	"name": "逸新"
+}, {
+	"en_name": "YeaH",
+	"id": 390,
+	"name": "宜悦"
+}, {
+	"en_name": "Yonan",
+	"id": 138,
+	"name": "永安"
+}, {
+	"en_name": "Yongbao",
+	"id": 1072,
+	"name": "永宝"
+}, {
+	"en_name": "Yonggu",
+	"id": 1067,
+	"name": "永固"
+}, {
+	"en_name": "Eosn",
+	"id": 2677,
+	"name": "永生"
+}, {
+	"en_name": "Novel SuperTV",
+	"id": 2517,
+	"name": "永新视博"
+}, {
+	"en_name": "UKCSIS",
+	"id": 796,
+	"name": "优可晟"
+}, {
+	"en_name": "Youku",
+	"id": 2797,
+	"name": "优酷"
+}, {
+	"en_name": "Youku Mofang",
+	"id": 368,
+	"name": "优酷魔方"
+}, {
+	"en_name": "Excellent Lana Si",
+	"id": 1062,
+	"name": "优拉纳斯"
+}, {
+	"en_name": "Viewlab",
+	"id": 2282,
+	"name": "优蓝博"
+}, {
+	"en_name": "Uniden",
+	"id": 3016,
+	"name": "友利电"
+}, {
+	"en_name": "UNIC",
+	"id": 1967,
+	"name": "优丽可"
+}, {
+	"en_name": "U-Men",
+	"id": 1198,
+	"name": "优盟"
+}, {
+	"en_name": "Viewsonic",
+	"id": 1297,
+	"name": "优派"
+}, {
+	"en_name": "Voole",
+	"id": 356,
+	"name": "优朋普乐"
+}, {
+	"en_name": "Argosy",
+	"id": 2287,
+	"name": "优群"
+}, {
+	"en_name": "Ustar",
+	"id": 1302,
+	"name": "优视达"
+}, {
+	"en_name": "Youzhuan",
+	"id": 310,
+	"name": "右转"
+}, {
+	"en_name": "Yuandong",
+	"id": 2837,
+	"name": "远东"
+}, {
+	"en_name": "Yudian",
+	"id": 175,
+	"name": "宇电"
+}, {
+	"en_name": "York",
+	"id": 1447,
+	"name": "约克"
+}, {
+	"en_name": "YueMe",
+	"id": 803,
+	"name": "悦Me"
+}, {
+	"en_name": "Yuetu",
+	"id": 1452,
+	"name": "月兔"
+}, {
+	"en_name": "Yuhang",
+	"id": 1307,
+	"name": "宇航"
+}, {
+	"en_name": "CskyTV",
+	"id": 801,
+	"name": "云天视"
+}, {
+	"en_name": "Yeeboo",
+	"id": 94,
+	"name": "羽珀"
+}, {
+	"en_name": "Ether",
+	"id": 436,
+	"name": "宇瑟"
+}, {
+	"en_name": "Rabbit",
+	"id": 148,
+	"name": "玉兔"
+}, {
+	"en_name": "Zenith",
+	"id": 2292,
+	"name": "Zenith"
+}, {
+	"en_name": "Great Wall",
+	"id": 357,
+	"name": "长城"
+}, {
+	"en_name": "Changfei",
+	"id": 552,
+	"name": "长飞"
+}, {
+	"en_name": "Changfeng",
+	"id": 557,
+	"name": "长风"
+}, {
+	"en_name": "Changgu",
+	"id": 1512,
+	"name": "长谷"
+}, {
+	"en_name": "Changhai",
+	"id": 602,
+	"name": "长海"
+}, {
+	"en_name": "Changhong",
+	"id": 17,
+	"name": "长虹"
+}, {
+	"en_name": "Changling",
+	"id": 242,
+	"name": "长岭"
+}, {
+	"en_name": "Mastar",
+	"id": 70,
+	"name": "展硕电子"
+}, {
+	"en_name": "Zinwell",
+	"id": 1312,
+	"name": "兆赫"
+}, {
+	"en_name": "Ogeneral",
+	"id": 5008,
+	"name": "珍宝"
+}, {
+	"en_name": "Ziierpollo",
+	"id": 410,
+	"name": "智尔浦"
+}, {
+	"en_name": "Chigo",
+	"id": 197,
+	"name": "志高"
+}, {
+	"en_name": "ZEK",
+	"id": 2297,
+	"name": "志科"
+}, {
+	"en_name": "SmartMi",
+	"id": 2333,
+	"name": "智米"
+}, {
+	"en_name": "Zhitong",
+	"id": 2479,
+	"name": "智同"
+}, {
+	"en_name": "ZhongBao",
+	"id": 1972,
+	"name": "中宝"
+}, {
+	"en_name": "Nakamichi",
+	"id": 2302,
+	"name": "中道"
+}, {
+	"en_name": "Costar",
+	"id": 1977,
+	"name": "中光学"
+}, {
+	"en_name": "Potevio",
+	"id": 1482,
+	"name": "中国普天"
+}, {
+	"en_name": "Chiko",
+	"id": 3,
+	"name": "中韩"
+}, {
+	"en_name": "Zolee",
+	"id": 2632,
+	"name": "中联"
+}, {
+	"en_name": "Jungson",
+	"id": 1098,
+	"name": "钟神"
+}, {
+	"en_name": "ZTE",
+	"id": 1017,
+	"name": "中兴"
+}, {
+	"en_name": "Zhongyi",
+	"id": 1502,
+	"name": "中意"
+}, {
+	"en_name": "Zhongyu",
+	"id": 155,
+	"name": "中宇"
+}, {
+	"en_name": "Xtreamer",
+	"id": 2262,
+	"name": "卓典"
+}, {
+	"en_name": "Zhuoli",
+	"id": 156,
+	"name": "卓立"
+}, {
+	"en_name": "ZhuoYue",
+	"id": 329,
+	"name": "卓越"
+}, {
+	"en_name": "Diamond",
+	"id": 2667,
+	"name": "钻石"
+}, {
+	"en_name": "Jamo",
+	"id": 65,
+	"name": "尊宝"
+}, {
+	"en_name": "Zuodan",
+	"id": 1507,
+	"name": "佐丹"
+}, {
+	"en_name": "ZVOX",
+	"id": 4819,
+	"name": "ZVOX"
+}]}
